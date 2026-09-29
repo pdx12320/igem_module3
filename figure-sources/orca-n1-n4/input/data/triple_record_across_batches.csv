@@ -1,0 +1,4 @@
+﻿batch,construct,on_target_ratio,activity_retention_fraction,same_batch_parent_ratio,ROF,rank_by_ROF_within_batch,rank_by_retention_within_batch,n_constructs_in_batch,cross_batch_value_comparable,note
+combinatorial batch,27T-30H-58M,2.156,0.772,1.192,1.8087,14,4,36,TRUE,原始记录，未经复测
+supplementary batch,27T-30H-58M-132E,2.083,0.6727,1.07,1.9467,,,37,TRUE,该批中三元组自身所在孔失败，此为含其全部三突变的 132E 版本
+third batch,27T-30H-58M,1.278,0.9799,1.0489,1.2185,3,10,25,FALSE,建库背景与前两批不同，比值不可与前两批横比

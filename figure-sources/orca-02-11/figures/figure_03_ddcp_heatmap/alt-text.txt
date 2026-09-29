@@ -1,0 +1,1 @@
+Diverging heatmap of 22 residues and 21 constructs with numerical annotations for absolute ΔΔCP values of at least 0.05.

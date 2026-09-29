@@ -1,0 +1,125 @@
+[
+  {
+    "figure": 8,
+    "folder": "figures/figure_08_single_site",
+    "text_outside_canvas": [],
+    "checks": {
+      "mutant_points": 101,
+      "parent_lines": 1,
+      "undefined_mutants": 1,
+      "joint_threshold_pass": 0
+    }
+  },
+  {
+    "figure": 2,
+    "folder": "figures/figure_02_cp_deviation",
+    "text_outside_canvas": [],
+    "checks": {
+      "A_constructs": 14,
+      "A_bars": 42,
+      "B_points": 10,
+      "pearson_r": -0.1508860809781509
+    }
+  },
+  {
+    "figure": 3,
+    "folder": "figures/figure_03_ddcp_heatmap",
+    "text_outside_canvas": [],
+    "checks": {
+      "rows": 22,
+      "columns": 21,
+      "top22_verified": true,
+      "symmetric_limit": 0.395,
+      "annotated_cells": 147
+    }
+  },
+  {
+    "figure": 4,
+    "folder": "figures/figure_04_negctrl_diagnosis",
+    "text_outside_canvas": [],
+    "checks": {
+      "rows": 29,
+      "A_distance_bars": 28,
+      "B_descriptor_bars": 87,
+      "WT_reference_A": 2.599,
+      "functional_classes": 6
+    }
+  },
+  {
+    "figure": 5,
+    "folder": "figures/figure_05_negctrl_pca",
+    "text_outside_canvas": [],
+    "checks": {
+      "PCA_points": 28,
+      "rank_bars": 28,
+      "active_constructs": 11,
+      "active_above_threshold": 7
+    }
+  },
+  {
+    "figure": 6,
+    "folder": "figures/figure_06_protein_only",
+    "text_outside_canvas": [],
+    "checks": {
+      "A_constructs": 10,
+      "A_bars": 30,
+      "B_bars": 3,
+      "chance_reference": 0.5
+    }
+  },
+  {
+    "figure": 7,
+    "folder": "figures/figure_07_protein_only_vs_complex",
+    "text_outside_canvas": [],
+    "checks": {
+      "constructs": 10,
+      "bars": 20,
+      "increased_without_RNA": [
+        "E72A"
+      ]
+    }
+  },
+  {
+    "figure": 9,
+    "folder": "figures/figure_09_targeting_ratio",
+    "text_outside_canvas": [],
+    "checks": {
+      "points_per_panel": 41,
+      "excluded_parent": 1,
+      "undefined_mutants": 9,
+      "pearson_r": -0.3901275514346702,
+      "spearman_rho": -0.5570171638873109,
+      "OLS_slope": -0.00959485190509018,
+      "OLS_intercept": 2.3947411392445
+    }
+  },
+  {
+    "figure": 10,
+    "folder": "figures/figure_10_candidates",
+    "text_outside_canvas": [],
+    "checks": {
+      "entries": 61,
+      "groups": 5,
+      "priority_categories": 11,
+      "group_counts": [
+        18,
+        6,
+        12,
+        5,
+        20
+      ]
+    }
+  },
+  {
+    "figure": 11,
+    "folder": "figures/figure_11_aice_filter",
+    "text_outside_canvas": [],
+    "checks": {
+      "positions": 199,
+      "curve_points": 40,
+      "curve_recount_verified": true,
+      "substitutions": 4,
+      "passing_coil_threshold": 4
+    }
+  }
+]

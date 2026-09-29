@@ -1,0 +1,56 @@
+{
+  "template_version": "orca-data-1.1",
+  "font": "Futura",
+  "cjk_font": "Arial Unicode MS",
+  "notes": [],
+  "runtime": {
+    "python": "3.13.7",
+    "matplotlib": "3.10.6",
+    "numpy": "2.3.3"
+  },
+  "export": {
+    "width_in": 15.8,
+    "height_in": 22.0,
+    "dpi": 300.0,
+    "display_width_px": 960,
+    "svg_text": "paths",
+    "pdf_fonttype": 42
+  },
+  "provenance": {
+    "source_files": [
+      {
+        "file": "source-data/figure_03_ddcp_matrix.csv",
+        "sha256": "cf0cece09886f9147521a0182683b6a804300d703fdf41061e6e023c9c4faab1"
+      },
+      {
+        "file": "source-data/figure_03_all_residues_ddcp.csv",
+        "sha256": "f4fe729a608f0c972a2879ec57c07d067836edddcfbf28ddc7e8c8010d8da91a"
+      }
+    ],
+    "data_kind": "Supplied construct-level or model-level summaries; no invented repeats or error bars",
+    "checks": {
+      "rows": 22,
+      "columns": 21,
+      "top22_verified": true,
+      "symmetric_limit": 0.395,
+      "annotated_cells": 147
+    },
+    "exclusions": [],
+    "processing": {
+      "annotation_font_pt": 13.5,
+      "dense_heatmap_exception": "Exact four-decimal cell values require zoom; axis labels remain 21 pt"
+    },
+    "source_values_modified": false,
+    "plotted_tables": {
+      "single": "plotted-panel-single.csv"
+    },
+    "panel_row_counts": {
+      "single": 22
+    },
+    "render_validation": {
+      "PNG": "Matplotlib Agg; opened and visually checked",
+      "PDF": "PyMuPDF render",
+      "SVG": "Sharp / librsvg render; hatch patterns checked"
+    }
+  }
+}

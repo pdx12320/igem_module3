@@ -1,0 +1,89 @@
+{
+  "hash_checks": 12,
+  "figures": [
+    {
+      "figure": "N1_combinatorial_pareto",
+      "canvas_text_clipping": [],
+      "axes_artist_counts": [
+        {
+          "points": 36,
+          "bars": 1
+        }
+      ],
+      "png_pixels": [
+        3600,
+        2700
+      ]
+    },
+    {
+      "figure": "N2_within_batch_rank",
+      "canvas_text_clipping": [],
+      "axes_artist_counts": [
+        {
+          "points": 2,
+          "bars": 0
+        }
+      ],
+      "png_pixels": [
+        3600,
+        2250
+      ]
+    },
+    {
+      "figure": "N3_designed_batch",
+      "canvas_text_clipping": [],
+      "axes_artist_counts": [
+        {
+          "points": 35,
+          "bars": 0
+        },
+        {
+          "points": 0,
+          "bars": 5
+        }
+      ],
+      "png_pixels": [
+        3600,
+        5100
+      ]
+    },
+    {
+      "figure": "N4_third_batch",
+      "canvas_text_clipping": [],
+      "axes_artist_counts": [
+        {
+          "points": 25,
+          "bars": 0
+        },
+        {
+          "points": 10,
+          "bars": 0
+        },
+        {
+          "points": 0,
+          "bars": 3
+        }
+      ],
+      "png_pixels": [
+        3600,
+        6900
+      ]
+    }
+  ],
+  "pareto_N1": [
+    "58M-130G",
+    "27D-30H-32F",
+    "32F-132E",
+    "27T-30H-58M",
+    "32F-58M",
+    "32F"
+  ],
+  "pareto_N4": [
+    "27I",
+    "27D-30H",
+    "27T-30H-58M",
+    "30H-58M",
+    "132E",
+    "25F"
+  ]
+}

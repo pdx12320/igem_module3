@@ -1,0 +1,13 @@
+# Use an isolated environment; torch already existed in the environment used here.
+torch==2.5.1
+transformers==4.46.3
+tokenizers==0.20.3
+safetensors==0.4.5
+huggingface-hub==0.26.2
+PyYAML==6.0.2
+regex==2024.11.6
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.13.1
+scikit-learn==1.5.2
+threadpoolctl==3.6.0

@@ -1,0 +1,71 @@
+{
+  "template_version": "orca-data-1.1",
+  "font": "Futura",
+  "cjk_font": "Arial Unicode MS",
+  "notes": [],
+  "runtime": {
+    "python": "3.13.7",
+    "matplotlib": "3.10.6",
+    "numpy": "2.3.3"
+  },
+  "export": {
+    "width_in": 12.0,
+    "height_in": 23.0,
+    "dpi": 300.0,
+    "display_width_px": 960,
+    "svg_text": "paths",
+    "pdf_fonttype": 42
+  },
+  "provenance": {
+    "sources": {
+      "reference/N1_reference_single_site_style.png": "001cde18bd99b5b097e310b53bf72515754ab9ac98e31ab5fea56b42f1dc9990",
+      "reference/N3_reference_figure15.png": "0fcf4adbc9b23de7f0bbc0b0d7d9c44370f0cc4f812981861065478d59b4ba77",
+      "data/designed_batch_groupD_pairing.csv": "37c0578d2231e1ab36741ed8e0de3190d629cbccac09d64b7576ea1352466e0d",
+      "reference/N4_reference_figure16.png": "5b9112867f501df0650cbffb2e1b8025c50b0eb32c0eb79198ea5519deed4871",
+      "data/combo_batch_ratio_vs_retention.csv": "5cdfe51f34acd4978a57ec46dbe912feebe8e06db69432556d4e144dd63b6d28",
+      "prompt.md": "60f17743eef0b973a35b5e883a23ff8a71521e17d12979830a1ca266a28a2728",
+      "data/triple_record_across_batches.csv": "b1c26b1b8c11f1866a8526ae23ccf9db3f79ab2257dd5b9389100b1bc94a6330",
+      "data/single_mutant_background.csv": "bc7a10de5ffcd5979728e0a0973ed9262197eebcd557927b5937c1c9c78be589",
+      "reference/N1_reference_combo_pareto.png": "bc886d86a58d6331a0c85791d598a367a753f0fb877f8bba22b53ecae4ac1bc5",
+      "README.md": "bcbfc17fb5c49afedc2f3b0d99fe5079bc9bd848c8642414a5e6d5d550a07418",
+      "data/designed_batch_groups.csv": "d64e7aa46a9123bf18679c7cd47cb1bc2b5906f2ca2df42d6a08e94db740ce3f",
+      "data/third_batch_all_groups.csv": "e934ab2fe37293202453b95d4d2d7bc180d0121992ce03fd598548a4961b573e"
+    },
+    "input_scope": "Entire supplied CSV files; source_row is the original CSV line number.",
+    "experimental_unit": "One supplied construct-level summary per point/bar; replicate-level values are unavailable.",
+    "statistics": "Descriptive display only; no estimated uncertainty, regression, significance tests or imputation.",
+    "source_values": "unchanged",
+    "parameters": {
+      "panel_A": {
+        "x": "activity_retention_fraction",
+        "y": "ROF_ratio_over_same_batch_parent",
+        "floor": 0.95,
+        "n": 25,
+        "pareto": "Recomputed, strict dominance, both axes maximized"
+      },
+      "panel_B": {
+        "n": 10,
+        "floor": 0.9,
+        "highlight_rof_min": 1.13
+      },
+      "panel_C": {
+        "n_detected": 3,
+        "n_censored": 7,
+        "censor_threshold": 0.05,
+        "parent": 0.3091,
+        "numeric_bars": "Detected values only; censored source zeros have no bar"
+      },
+      "reference_groups": "All four reference rows retained separately; PUF12 supplies reference levels"
+    },
+    "n_rows_by_output": {
+      "panel-A-plotted-data": 25,
+      "panel-A-pareto-front": 6,
+      "panel-B-plotted-data": 10,
+      "panel-C-display-data": 10,
+      "reference-groups": 4
+    },
+    "versions": {
+      "pandas": "2.3.2"
+    }
+  }
+}

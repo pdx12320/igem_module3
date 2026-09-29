@@ -1,0 +1,71 @@
+{
+  "template_version": "orca-data-1.1",
+  "font": "Futura",
+  "cjk_font": "Arial Unicode MS",
+  "notes": [],
+  "runtime": {
+    "python": "3.13.7",
+    "matplotlib": "3.10.6",
+    "numpy": "2.3.3"
+  },
+  "export": {
+    "width_in": 15.8,
+    "height_in": 13.0,
+    "dpi": 300.0,
+    "display_width_px": 960,
+    "svg_text": "paths",
+    "pdf_fonttype": 42
+  },
+  "provenance": {
+    "source_files": [
+      {
+        "file": "source-data/figure_02_cp_deviation.csv",
+        "sha256": "227c452d55f7b2de0f3287aa6b8bf07ba30fde0660402cb0b5a52e6fc011e5cb"
+      }
+    ],
+    "data_kind": "Supplied construct-level or model-level summaries; no invented repeats or error bars",
+    "checks": {
+      "A_constructs": 14,
+      "A_bars": 42,
+      "B_points": 10,
+      "pearson_r": -0.1508860809781509
+    },
+    "exclusions": [
+      {
+        "id": "G27D-K30H-Q58M",
+        "panel": "B",
+        "reason": "Activity retention missing"
+      },
+      {
+        "id": "G27T-K30H",
+        "panel": "B",
+        "reason": "Activity retention missing"
+      },
+      {
+        "id": "A59P",
+        "panel": "B",
+        "reason": "Activity retention missing"
+      },
+      {
+        "id": "K60R",
+        "panel": "B",
+        "reason": "Activity retention missing"
+      }
+    ],
+    "processing": {},
+    "source_values_modified": false,
+    "plotted_tables": {
+      "A": "plotted-panel-a.csv",
+      "B": "plotted-panel-b.csv"
+    },
+    "panel_row_counts": {
+      "A": 14,
+      "B": 10
+    },
+    "render_validation": {
+      "PNG": "Matplotlib Agg; opened and visually checked",
+      "PDF": "PyMuPDF render",
+      "SVG": "Sharp / librsvg render; hatch patterns checked"
+    }
+  }
+}

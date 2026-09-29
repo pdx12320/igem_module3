@@ -1,0 +1,36 @@
+source_file,source_row,construct,candidate_id,design_group,design_group_label_en,on_target_GCG_over_offtarget_GCA_ratio,ratio_defined,ROF_ratio_over_same_batch_parent,activity_retention_fraction,is_reference_parent,excluded_failed_well
+designed_batch_groups.csv,2,27D-30H-58M,C27,C,C new combinations,1.5624,True,1.4602,0.6577,False,False
+designed_batch_groups.csv,3,26N-58M,C36,C,C new combinations,1.1655,True,1.0893,0.7744,False,False
+designed_batch_groups.csv,4,27Q-130G,E01,E,E relaxed / anomalous,1.8164,True,1.6976,0.1579,False,False
+designed_batch_groups.csv,5,27I-25F,E09,E,E relaxed / anomalous,1.4295,True,1.336,0.6009,False,False
+designed_batch_groups.csv,6,26N-131R,E07,E,E relaxed / anomalous,1.563,True,1.4607,0.1273,False,False
+designed_batch_groups.csv,7,26N-130G,E02,E,E relaxed / anomalous,1.9541,True,1.8263,0.1886,False,False
+designed_batch_groups.csv,9,27T-30H-58M-132E,D03,D,D control variants,2.0825,True,1.9463,0.6727,False,False
+designed_batch_groups.csv,10,27T-26N-32F,E17,E,E relaxed / anomalous,1.6305,True,1.5238,0.6753,False,False
+designed_batch_groups.csv,11,25F-27T-58M,E19,E,E relaxed / anomalous,1.2613,True,1.1788,0.75,False,False
+designed_batch_groups.csv,12,25F-27V,E08,E,E relaxed / anomalous,1.2903,True,1.2059,0.6665,False,False
+designed_batch_groups.csv,13,26N-27T-58M,E18,E,E relaxed / anomalous,1.3566,True,1.2679,0.7656,False,False
+designed_batch_groups.csv,15,25E-30H-58M-132E,D05,D,D control variants,1.6603,True,1.5517,0.7517,False,False
+designed_batch_groups.csv,16,25E-30H-58M-132D,D04,D,D control variants,2.5791,True,2.4104,0.3398,False,False
+designed_batch_groups.csv,17,25E-58M-32F,E16,E,E relaxed / anomalous,1.6548,True,1.5465,0.7298,False,False
+designed_batch_groups.csv,18,26N-30H,C25,C,C new combinations,1.2024,True,1.1237,0.4042,False,False
+designed_batch_groups.csv,19,25E-58M-132E,E14,E,E relaxed / anomalous,1.2777,True,1.1941,0.7727,False,False
+designed_batch_groups.csv,20,28A-30H-58M,C34,C,C new combinations,1.0544,True,0.9854,0.6274,False,False
+designed_batch_groups.csv,21,27T-32F-58M,E13,E,E relaxed / anomalous,1.5143,True,1.4152,0.7687,False,False
+designed_batch_groups.csv,22,27T-58I,E06,E,E relaxed / anomalous,1.2197,True,1.1399,0.8413,False,False
+designed_batch_groups.csv,23,27T-58M-132E,E15,E,E relaxed / anomalous,1.4709,True,1.3747,0.7325,False,False
+designed_batch_groups.csv,24,28N-27Q,E10,E,E relaxed / anomalous,1.058,True,0.9888,0.3551,False,False
+designed_batch_groups.csv,25,31V,C21,B,B new single substitutions,1.7248,True,1.612,0.2824,False,False
+designed_batch_groups.csv,26,130G-32F,E20,E,E relaxed / anomalous,2.5693,True,2.4012,0.4774,False,False
+designed_batch_groups.csv,27,60M,,new,not in candidate list,1.1749,True,1.098,0.7542,False,False
+designed_batch_groups.csv,28,30H-31A,C30,C,C new combinations,1.1272,True,1.0535,0.8212,False,False
+designed_batch_groups.csv,29,32F-132E-58M,C35,C,C new combinations,1.2617,True,1.1792,0.9454,False,False
+designed_batch_groups.csv,30,27T-130G,E03,E,E relaxed / anomalous,1.7247,True,1.6119,0.2369,False,False
+designed_batch_groups.csv,31,132D,C07,A,A replication,1.1469,True,1.0719,0.8114,False,False
+designed_batch_groups.csv,32,58H,,new,not in candidate list,1.1428,True,1.068,0.8758,False,False
+designed_batch_groups.csv,33,28A-30H,C29,C,C new combinations,0.943,True,0.8813,0.6435,False,False
+designed_batch_groups.csv,34,27V,,new,not in candidate list,1.2756,True,1.1921,0.6525,False,False
+designed_batch_groups.csv,35,26N,C10,A,A replication,1.1173,True,1.0442,0.8618,False,False
+designed_batch_groups.csv,36,60I,,new,not in candidate list,1.2338,True,1.1531,0.78,False,False
+designed_batch_groups.csv,37,60T,,new,not in candidate list,1.1869,True,1.1093,0.736,False,False
+designed_batch_groups.csv,38,58k,,new,not in candidate list,1.1445,True,1.0696,0.9366,False,False

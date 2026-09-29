@@ -1,0 +1,175 @@
+{
+  "status": "passed",
+  "wiki_documents": [
+    "DBTL.md",
+    "module3.md"
+  ],
+  "main_headings": [
+    "Background",
+    "Model overview",
+    "Results",
+    "Conclusion",
+    "Data and code availability",
+    "References"
+  ],
+  "main_has_no_DBTL_framing": true,
+  "primary_references": 8,
+  "main_captions": 8,
+  "caption_word_counts": [
+    23,
+    29,
+    22,
+    24,
+    21,
+    23,
+    21,
+    24
+  ],
+  "max_caption_sentences": 2,
+  "html_files_delivered": 0,
+  "local_links_checked": 59,
+  "missing_links": [],
+  "new_python_files_syntax_checked": 4,
+  "selected_ORCA_image_exports_byte_identical_to_source": 27,
+  "images": [
+    {
+      "file": "wiki/figures/figure_03_ddcp_heatmap/figure_03_ddcp_heatmap.png",
+      "pixels": [
+        4740,
+        6600
+      ]
+    },
+    {
+      "file": "wiki/figures/figure_04_negctrl_diagnosis/figure_04_negctrl_diagnosis.png",
+      "pixels": [
+        4740,
+        6300
+      ]
+    },
+    {
+      "file": "wiki/figures/figure_08_single_site/figure_08_single_site.png",
+      "pixels": [
+        4740,
+        3000
+      ]
+    },
+    {
+      "file": "wiki/figures/N1_combinatorial_pareto/N1_combinatorial_pareto.png",
+      "pixels": [
+        3600,
+        2700
+      ]
+    },
+    {
+      "file": "wiki/figures/figure_09_targeting_ratio/figure_09_targeting_ratio.png",
+      "pixels": [
+        4740,
+        3150
+      ]
+    },
+    {
+      "file": "wiki/figures/figure_10_candidates/figure_10_candidates.png",
+      "pixels": [
+        4740,
+        3600
+      ]
+    },
+    {
+      "file": "wiki/figures/N3_designed_batch/N3_designed_batch.png",
+      "pixels": [
+        3600,
+        5100
+      ]
+    },
+    {
+      "file": "wiki/figures/figure_07_protein_only_vs_complex/figure_07_protein_only_vs_complex.png",
+      "pixels": [
+        4740,
+        3000
+      ]
+    },
+    {
+      "file": "wiki/figures/N4_third_batch/N4_third_batch.png",
+      "pixels": [
+        3600,
+        6900
+      ]
+    }
+  ],
+  "workflow_editable_SVG_text_elements": 19,
+  "frozen_science_audit_inputs_hashes_verified": 11,
+  "ESM2_frozen_plan_hash_verified": true,
+  "ESM2_embedding_distance_checks": {
+    "layer6": {
+      "embedding_shape": [
+        11,
+        480
+      ],
+      "max_distance_recalculation_error": 9.316007167081697e-17
+    },
+    "layer12": {
+      "embedding_shape": [
+        11,
+        480
+      ],
+      "max_distance_recalculation_error": 9.977370492297855e-17
+    }
+  },
+  "sequence_inputs": {
+    "constructs": 11,
+    "residues_each": 199,
+    "hamming_distances_recalculated": true
+  },
+  "private_path_or_secret_pattern_matches": [],
+  "text_files_scanned": 450,
+  "plot_reproduction": {
+    "orca_02_11": {
+      "command": "python plot.py --only 8 --output rerender",
+      "exit_code": 0,
+      "mutant_points": 101,
+      "joint_threshold_pass": 0,
+      "text_outside_canvas": []
+    },
+    "orca_N1_N4": {
+      "command": "python plot.py --out rerender",
+      "exit_code": 0,
+      "figures_rendered": [
+        "N1",
+        "N2",
+        "N3",
+        "N4"
+      ],
+      "source_hash_checks": 12,
+      "canvas_text_clipping": []
+    },
+    "runtime": {
+      "python": "3.9.6",
+      "matplotlib": "3.9.2",
+      "numpy": "1.26.4",
+      "pandas": "2.2.3"
+    }
+  },
+  "visual_QA": [
+    "Selected nine ORCA PNGs inspected in a contact sheet",
+    "Workflow PNG inspected",
+    "Workflow PDF separately rendered with Poppler and inspected",
+    "Final ESM-2 PNG inspected after colorbar spacing adjustment"
+  ],
+  "scope": "Editorial, file-integrity and computational checks; no new experimental validation or full AF3/sequencing rerun.",
+  "git_whitespace_check": {
+    "full_archive_check_exit": 2,
+    "warning_types": {
+      "trailing whitespace.": 81076,
+      "new blank line at EOF.": 3
+    },
+    "warning_file_extensions": {
+      ".svg": 48099,
+      ".csv": 15092,
+      ".md": 1847,
+      ".py": 8677,
+      ".txt": 6792,
+      ".json": 572
+    },
+    "interpretation": "Original CSV line endings and generated SVG/source whitespace are preserved; newly authored wiki, scripts and documentation pass the scoped diff check."
+  }
+}

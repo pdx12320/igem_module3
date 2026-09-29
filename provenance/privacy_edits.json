@@ -1,0 +1,12 @@
+[
+  {
+    "file": "figure-sources/orca-n1-n4/figures/manifest.json",
+    "original_sha256": "87874d6aa571a95bdc728c2d303492134178874c4d0edc6d5d2d4a87a6bc73ff",
+    "change": "Replace private absolute paths with paths relative to this manifest."
+  },
+  {
+    "file": "code/historical/DATA.md",
+    "original_sha256": "95945d1379d548ac99c9ed6cc2b02f9d1a7cd822e3bce794b9a984759538609a",
+    "change": "Replace legacy machine-path example with portable example."
+  }
+]

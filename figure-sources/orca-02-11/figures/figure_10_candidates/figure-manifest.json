@@ -1,0 +1,64 @@
+{
+  "template_version": "orca-data-1.1",
+  "font": "Futura",
+  "cjk_font": "Arial Unicode MS",
+  "notes": [],
+  "runtime": {
+    "python": "3.13.7",
+    "matplotlib": "3.10.6",
+    "numpy": "2.3.3"
+  },
+  "export": {
+    "width_in": 15.8,
+    "height_in": 12.0,
+    "dpi": 300.0,
+    "display_width_px": 960,
+    "svg_text": "paths",
+    "pdf_fonttype": 42
+  },
+  "provenance": {
+    "source_files": [
+      {
+        "file": "source-data/figure_10a_candidate_groups_raw.csv",
+        "sha256": "e1ffaa5a086968508720b0ff0eb9b7f2c10ead309f1da22cd7fea97288dc2413"
+      },
+      {
+        "file": "source-data/figure_10b_candidate_group_sizes.csv",
+        "sha256": "1b1e0290b3899906c7ffcb8a4260c118500c409d19678984938e404b828bbd0c"
+      },
+      {
+        "file": "source-data/figure_10c_candidate_priority_matrix.csv",
+        "sha256": "f042069fca889bd9d889489b35f213db187a66743b70d485bb4b16e5c2cf2a08"
+      }
+    ],
+    "data_kind": "Supplied construct-level or model-level summaries; no invented repeats or error bars",
+    "checks": {
+      "entries": 61,
+      "groups": 5,
+      "priority_categories": 11,
+      "group_counts": [
+        18,
+        6,
+        12,
+        5,
+        20
+      ]
+    },
+    "exclusions": [],
+    "processing": {},
+    "source_values_modified": false,
+    "plotted_tables": {
+      "A": "plotted-panel-a.csv",
+      "B": "plotted-panel-b.csv"
+    },
+    "panel_row_counts": {
+      "A": 5,
+      "B": 5
+    },
+    "render_validation": {
+      "PNG": "Matplotlib Agg; opened and visually checked",
+      "PDF": "PyMuPDF render",
+      "SVG": "Sharp / librsvg render; hatch patterns checked"
+    }
+  }
+}

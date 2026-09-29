@@ -1,0 +1,12 @@
+construct,observed_name,CP_spectral,layer6,layer12,sequence_hamming
+wt,WT,0,1,0,0
+m132d,M132D,0,1,0,0
+m132e,M132E,0,1,0,0
+k30h,K30H,0,1,0,0
+g27tk30hq58m,G27T+K30H+Q58M,1,0,0,1
+t31d,T31D,0,1,0,0
+n57w,N57W,2,0,0,0
+g27dm130g,G27D+W130G,1,1,0,0
+t31a,T31A,0,1,0,0
+n57a,N57A,2,0,0,0
+e72a,E72A,0,1,1,0

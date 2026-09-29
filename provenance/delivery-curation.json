@@ -1,0 +1,46 @@
+[
+  {
+    "omitted_from_delivery": "wiki/engineering.md",
+    "reason": "User requested English main wiki and separate DBTL in Markdown, without HTML preview or Chinese wiki."
+  },
+  {
+    "omitted_from_delivery": "wiki/figure-map.md",
+    "reason": "User requested English main wiki and separate DBTL in Markdown, without HTML preview or Chinese wiki."
+  },
+  {
+    "omitted_from_delivery": "wiki/module3.zh.md",
+    "reason": "User requested English main wiki and separate DBTL in Markdown, without HTML preview or Chinese wiki."
+  },
+  {
+    "omitted_from_delivery": "wiki/editorial-notes.md",
+    "reason": "User requested English main wiki and separate DBTL in Markdown, without HTML preview or Chinese wiki."
+  },
+  {
+    "omitted_from_delivery": "wiki/terminology.md",
+    "reason": "User requested English main wiki and separate DBTL in Markdown, without HTML preview or Chinese wiki."
+  },
+  {
+    "omitted_from_delivery": "wiki/methods.md",
+    "reason": "User requested English main wiki and separate DBTL in Markdown, without HTML preview or Chinese wiki."
+  },
+  {
+    "omitted_from_delivery": "wiki/supplementary.md",
+    "reason": "User requested English main wiki and separate DBTL in Markdown, without HTML preview or Chinese wiki."
+  },
+  {
+    "omitted_from_delivery": "preview",
+    "reason": "User requested English main wiki and separate DBTL in Markdown, without HTML preview or Chinese wiki."
+  },
+  {
+    "omitted_from_delivery": "scripts/build_preview.py",
+    "reason": "User requested English main wiki and separate DBTL in Markdown, without HTML preview or Chinese wiki."
+  },
+  {
+    "omitted_from_delivery": "analysis/cp-clustering/skill_clustering/deliverables/CP_clustering_workflow_report.html",
+    "reason": "User requested English main wiki and separate DBTL in Markdown, without HTML preview or Chinese wiki."
+  },
+  {
+    "omitted_from_delivery": "figure-sources/orca-02-11/index.html",
+    "reason": "User requested Markdown only; generated source-package HTML index omitted, original input archive unchanged."
+  }
+]

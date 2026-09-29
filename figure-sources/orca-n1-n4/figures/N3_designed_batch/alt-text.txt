@@ -1,0 +1,1 @@
+Panel A plots 35 valid designed-batch summaries, colored and shaped by six design categories; failed and undefined rows are identified outside the axes. Panel B shows four valid retention bars and one invalid hatched failed-well record. The first two valid bars differ by 132E and by batch.

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "N1_combinatorial_pareto",
+    "paths": {
+      "png": "N1_combinatorial_pareto/N1_combinatorial_pareto.png",
+      "svg": "N1_combinatorial_pareto/N1_combinatorial_pareto.svg",
+      "pdf": "N1_combinatorial_pareto/N1_combinatorial_pareto.pdf",
+      "caption": "N1_combinatorial_pareto/caption.md",
+      "alt": "N1_combinatorial_pareto/alt-text.txt",
+      "manifest": "N1_combinatorial_pareto/figure-manifest.json",
+      "style": "N1_combinatorial_pareto/orca-figure-style.json"
+    }
+  },
+  {
+    "name": "N2_within_batch_rank",
+    "paths": {
+      "png": "N2_within_batch_rank/N2_within_batch_rank.png",
+      "svg": "N2_within_batch_rank/N2_within_batch_rank.svg",
+      "pdf": "N2_within_batch_rank/N2_within_batch_rank.pdf",
+      "caption": "N2_within_batch_rank/caption.md",
+      "alt": "N2_within_batch_rank/alt-text.txt",
+      "manifest": "N2_within_batch_rank/figure-manifest.json",
+      "style": "N2_within_batch_rank/orca-figure-style.json"
+    }
+  },
+  {
+    "name": "N3_designed_batch",
+    "paths": {
+      "png": "N3_designed_batch/N3_designed_batch.png",
+      "svg": "N3_designed_batch/N3_designed_batch.svg",
+      "pdf": "N3_designed_batch/N3_designed_batch.pdf",
+      "caption": "N3_designed_batch/caption.md",
+      "alt": "N3_designed_batch/alt-text.txt",
+      "manifest": "N3_designed_batch/figure-manifest.json",
+      "style": "N3_designed_batch/orca-figure-style.json"
+    }
+  },
+  {
+    "name": "N4_third_batch",
+    "paths": {
+      "png": "N4_third_batch/N4_third_batch.png",
+      "svg": "N4_third_batch/N4_third_batch.svg",
+      "pdf": "N4_third_batch/N4_third_batch.pdf",
+      "caption": "N4_third_batch/caption.md",
+      "alt": "N4_third_batch/alt-text.txt",
+      "manifest": "N4_third_batch/figure-manifest.json",
+      "style": "N4_third_batch/orca-figure-style.json"
+    }
+  }
+]

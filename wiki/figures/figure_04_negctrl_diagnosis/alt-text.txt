@@ -1,0 +1,1 @@
+Aligned horizontal panels compare available catalytic distances and three CP descriptors for 29 rows, retaining unmeasured controls as a separate class.

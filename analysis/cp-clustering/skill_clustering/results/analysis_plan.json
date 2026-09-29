@@ -1,0 +1,236 @@
+{
+  "skills": [
+    "scikit-learn",
+    "umap-learn",
+    "statistical-analysis"
+  ],
+  "upstream_commit": "330c8e764435a731eff571e3efdda70b363d0792",
+  "n_constructs": 11,
+  "n_seeds": 56,
+  "n_models": 280,
+  "feature_unit": "raw contact probability; seed CP symmetrized upstream",
+  "aggregation": "5 samples averaged within seed, equal seeds within construct",
+  "independent_unit": "construct; seeds only computational repetitions",
+  "k_range": [
+    2,
+    3,
+    4
+  ],
+  "main_methods": [
+    "Ward",
+    "average linkage",
+    "complete linkage",
+    "KMeans",
+    "PCA95 + KMeans",
+    "spectral RBF"
+  ],
+  "common_validation_space": "all nonlocal CP in original probability units",
+  "k_selection": "silhouette in method input space; spectral uses selected CP space, PCA KMeans uses PCA space; GMM uses BIC at fixed 3 PC; density has no chosen k",
+  "feature_selection": "sample variance over construct means, no assay labels; top counts77/154/230 fixed; re-rank per bootstrap",
+  "B": 200,
+  "seed": 20260915,
+  "bootstrap": "whole seeds resampled independently within each construct; refit features/preprocessing/model; report both reselected-k and fixed-baseline-k agreement",
+  "scale_sensitivity": "StandardScaler only in named zscore workflow",
+  "confidence_mask": "both endpoints minimum construct-mean CA pLDDT >=70; mask fixed at baseline",
+  "core_mask": "both endpoints70..153; source-derived core sensitivity, not complete domain boundary",
+  "singleton_policy": "retained and counted",
+  "density_policy": "retain all-noise/one-cluster cases; metrics exclude noise and coverage is reported",
+  "GMM": "PCA3, spherical covariance, k1..4, reg_covar=.01*mean PC variance, 30 initializations; exploratory n=11",
+  "DBSCAN": "min_samples=2; eps = q50 or q75 of nearest-other-neighbor distances; recalculated in resamples",
+  "spectral": "fully connected RBF, sigma=median nonzero pairwise distance, assign_labels=cluster_qr",
+  "adaptations": "source example k2..10 reduced to2..4, no global warning suppression, no omission of degenerate density results",
+  "specs": [
+    {
+      "id": "variable_all__ward",
+      "subset": "variable_all",
+      "method": "ward",
+      "category": "main"
+    },
+    {
+      "id": "variable_all__average",
+      "subset": "variable_all",
+      "method": "average",
+      "category": "main"
+    },
+    {
+      "id": "variable_all__complete",
+      "subset": "variable_all",
+      "method": "complete",
+      "category": "main"
+    },
+    {
+      "id": "variable_all__kmeans",
+      "subset": "variable_all",
+      "method": "kmeans",
+      "category": "main"
+    },
+    {
+      "id": "variable_all__pca95_kmeans",
+      "subset": "variable_all",
+      "method": "pca95_kmeans",
+      "category": "main"
+    },
+    {
+      "id": "variable_all__spectral",
+      "subset": "variable_all",
+      "method": "spectral",
+      "category": "main"
+    },
+    {
+      "id": "variable_top10__ward",
+      "subset": "variable_top10",
+      "method": "ward",
+      "category": "main"
+    },
+    {
+      "id": "variable_top10__average",
+      "subset": "variable_top10",
+      "method": "average",
+      "category": "main"
+    },
+    {
+      "id": "variable_top10__complete",
+      "subset": "variable_top10",
+      "method": "complete",
+      "category": "main"
+    },
+    {
+      "id": "variable_top10__kmeans",
+      "subset": "variable_top10",
+      "method": "kmeans",
+      "category": "main"
+    },
+    {
+      "id": "variable_top10__pca95_kmeans",
+      "subset": "variable_top10",
+      "method": "pca95_kmeans",
+      "category": "main"
+    },
+    {
+      "id": "variable_top10__spectral",
+      "subset": "variable_top10",
+      "method": "spectral",
+      "category": "main"
+    },
+    {
+      "id": "variable_top20__ward",
+      "subset": "variable_top20",
+      "method": "ward",
+      "category": "main"
+    },
+    {
+      "id": "variable_top20__average",
+      "subset": "variable_top20",
+      "method": "average",
+      "category": "main"
+    },
+    {
+      "id": "variable_top20__complete",
+      "subset": "variable_top20",
+      "method": "complete",
+      "category": "main"
+    },
+    {
+      "id": "variable_top20__kmeans",
+      "subset": "variable_top20",
+      "method": "kmeans",
+      "category": "main"
+    },
+    {
+      "id": "variable_top20__pca95_kmeans",
+      "subset": "variable_top20",
+      "method": "pca95_kmeans",
+      "category": "main"
+    },
+    {
+      "id": "variable_top20__spectral",
+      "subset": "variable_top20",
+      "method": "spectral",
+      "category": "main"
+    },
+    {
+      "id": "variable_top30__ward",
+      "subset": "variable_top30",
+      "method": "ward",
+      "category": "main"
+    },
+    {
+      "id": "variable_top30__average",
+      "subset": "variable_top30",
+      "method": "average",
+      "category": "main"
+    },
+    {
+      "id": "variable_top30__complete",
+      "subset": "variable_top30",
+      "method": "complete",
+      "category": "main"
+    },
+    {
+      "id": "variable_top30__kmeans",
+      "subset": "variable_top30",
+      "method": "kmeans",
+      "category": "main"
+    },
+    {
+      "id": "variable_top30__pca95_kmeans",
+      "subset": "variable_top30",
+      "method": "pca95_kmeans",
+      "category": "main"
+    },
+    {
+      "id": "variable_top30__spectral",
+      "subset": "variable_top30",
+      "method": "spectral",
+      "category": "main"
+    },
+    {
+      "id": "variable_all__gmm_pca3",
+      "subset": "variable_all",
+      "method": "gmm_pca3",
+      "category": "exploratory"
+    },
+    {
+      "id": "variable_all__hdbscan2",
+      "subset": "variable_all",
+      "method": "hdbscan2",
+      "category": "exploratory"
+    },
+    {
+      "id": "variable_all__hdbscan3",
+      "subset": "variable_all",
+      "method": "hdbscan3",
+      "category": "exploratory"
+    },
+    {
+      "id": "variable_all__dbscan_q50",
+      "subset": "variable_all",
+      "method": "dbscan_q50",
+      "category": "exploratory"
+    },
+    {
+      "id": "variable_all__dbscan_q75",
+      "subset": "variable_all",
+      "method": "dbscan_q75",
+      "category": "exploratory"
+    },
+    {
+      "id": "zscore_variable__ward",
+      "subset": "zscore_variable",
+      "method": "ward",
+      "category": "sensitivity"
+    },
+    {
+      "id": "confidence70__ward",
+      "subset": "confidence70",
+      "method": "ward",
+      "category": "sensitivity"
+    },
+    {
+      "id": "core70_153__ward",
+      "subset": "core70_153",
+      "method": "ward",
+      "category": "sensitivity"
+    }
+  ]
+}

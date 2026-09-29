@@ -1,0 +1,1 @@
+Scatter of 36 defined construct ratios against activity retention. An orange star marks 27T-30H-58M at 0.773 retention and 2.156 ratio, the only point in the upper-right threshold region. Six points form the Pareto front. Twelve undefined ratios are not plotted.

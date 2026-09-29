@@ -1,0 +1,59 @@
+[
+  {
+    "file": "figures/N1_combinatorial_pareto/N1_combinatorial_pareto.pdf",
+    "pages": 1,
+    "size_pt": [
+      0.0,
+      0.0,
+      864.0,
+      648.0
+    ],
+    "font_names": [
+      "FBJOUB+Futura-Medium"
+    ],
+    "image_count": 0
+  },
+  {
+    "file": "figures/N2_within_batch_rank/N2_within_batch_rank.pdf",
+    "pages": 1,
+    "size_pt": [
+      0.0,
+      0.0,
+      864.0,
+      540.0
+    ],
+    "font_names": [
+      "FBJOUB+Futura-Medium"
+    ],
+    "image_count": 0
+  },
+  {
+    "file": "figures/N3_designed_batch/N3_designed_batch.pdf",
+    "pages": 1,
+    "size_pt": [
+      0.0,
+      0.0,
+      864.0,
+      1224.0
+    ],
+    "font_names": [
+      "FBJOUB+Futura-Medium"
+    ],
+    "image_count": 0
+  },
+  {
+    "file": "figures/N4_third_batch/N4_third_batch.pdf",
+    "pages": 1,
+    "size_pt": [
+      0.0,
+      0.0,
+      864.0,
+      1656.0
+    ],
+    "font_names": [
+      "EOZVUY+ArialUnicodeMS",
+      "FBJOUB+Futura-Medium"
+    ],
+    "image_count": 0
+  }
+]

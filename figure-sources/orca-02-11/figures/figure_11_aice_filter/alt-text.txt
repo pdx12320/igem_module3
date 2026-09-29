@@ -1,0 +1,1 @@
+Threshold curve for 199 positions and sampling frequencies of four substitutions that all pass the supplied coil threshold.

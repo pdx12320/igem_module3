@@ -1,0 +1,61 @@
+﻿文件名,构建体,说明,湿实验活性,优先级
+WT_pure_s01.json,WT,WT（纯蛋白）,,P0
+WT_pure_s02.json,WT,WT（纯蛋白）,,P0
+WT_pure_s03.json,WT,WT（纯蛋白）,,P0
+WT_pure_s04.json,WT,WT（纯蛋白）,,P0
+WT_pure_s05.json,WT,WT（纯蛋白）,,P0
+WT_pure_s06.json,WT,WT（纯蛋白）,,P0
+WT_pure_s07.json,WT,WT（纯蛋白）,,P0
+WT_pure_s08.json,WT,WT（纯蛋白）,,P0
+WT_pure_s09.json,WT,WT（纯蛋白）,,P0
+WT_pure_s10.json,WT,WT（纯蛋白）,,P0
+WT_pure_s11.json,WT,WT（纯蛋白）,,P0
+WT_pure_s12.json,WT,WT（纯蛋白）,,P0
+WT_pure_s13.json,WT,WT（纯蛋白）,,P0
+WT_pure_s14.json,WT,WT（纯蛋白）,,P0
+WT_pure_s15.json,WT,WT（纯蛋白）,,P0
+WT_pure_s16.json,WT,WT（纯蛋白）,,P0
+WT_pure_s17.json,WT,WT（纯蛋白）,,P0
+WT_pure_s18.json,WT,WT（纯蛋白）,,P0
+WT_pure_s19.json,WT,WT（纯蛋白）,,P0
+WT_pure_s20.json,WT,WT（纯蛋白）,,P0
+M132D_pure_s01.json,M132D,核心对照·出口通道,0.890,P0
+M132D_pure_s02.json,M132D,核心对照·出口通道,0.890,P0
+M132D_pure_s03.json,M132D,核心对照·出口通道,0.890,P0
+M132D_pure_s04.json,M132D,核心对照·出口通道,0.890,P0
+M132E_pure_s01.json,M132E,核心对照·出口通道（132D 的安全对照臂）,0.830,P0
+M132E_pure_s02.json,M132E,核心对照·出口通道（132D 的安全对照臂）,0.830,P0
+M132E_pure_s03.json,M132E,核心对照·出口通道（132D 的安全对照臂）,0.830,P0
+M132E_pure_s04.json,M132E,核心对照·出口通道（132D 的安全对照臂）,0.830,P0
+K30H_pure_s01.json,K30H,核心对照·最佳单点,0.840,P0
+K30H_pure_s02.json,K30H,核心对照·最佳单点,0.840,P0
+K30H_pure_s03.json,K30H,核心对照·最佳单点,0.840,P0
+K30H_pure_s04.json,K30H,核心对照·最佳单点,0.840,P0
+G27TK30HQ58M_pure_s01.json,G27TK30HQ58M,核心对照·复合物模型中偏离最大（关键反例）,0.770,P0
+G27TK30HQ58M_pure_s02.json,G27TK30HQ58M,核心对照·复合物模型中偏离最大（关键反例）,0.770,P0
+G27TK30HQ58M_pure_s03.json,G27TK30HQ58M,核心对照·复合物模型中偏离最大（关键反例）,0.770,P0
+G27TK30HQ58M_pure_s04.json,G27TK30HQ58M,核心对照·复合物模型中偏离最大（关键反例）,0.770,P0
+T31D_pure_s01.json,T31D,★完全失活·＋1 阅读器位点,0.000,P0
+T31D_pure_s02.json,T31D,★完全失活·＋1 阅读器位点,0.000,P0
+T31D_pure_s03.json,T31D,★完全失活·＋1 阅读器位点,0.000,P0
+T31D_pure_s04.json,T31D,★完全失活·＋1 阅读器位点,0.000,P0
+N57W_pure_s01.json,N57W,★完全失活·催化必需残基,0.000,P0
+N57W_pure_s02.json,N57W,★完全失活·催化必需残基,0.000,P0
+N57W_pure_s03.json,N57W,★完全失活·催化必需残基,0.000,P0
+N57W_pure_s04.json,N57W,★完全失活·催化必需残基,0.000,P0
+G27DM130G_pure_s01.json,G27DM130G,★完全失活·组合,0.000,P0
+G27DM130G_pure_s02.json,G27DM130G,★完全失活·组合,0.000,P0
+G27DM130G_pure_s03.json,G27DM130G,★完全失活·组合,0.000,P0
+G27DM130G_pure_s04.json,G27DM130G,★完全失活·组合,0.000,P0
+T31A_pure_s01.json,T31A,★同位点活性对照（与 T31D 同为位点 31）,0.970,P0
+T31A_pure_s02.json,T31A,★同位点活性对照（与 T31D 同为位点 31）,0.970,P0
+T31A_pure_s03.json,T31A,★同位点活性对照（与 T31D 同为位点 31）,0.970,P0
+T31A_pure_s04.json,T31A,★同位点活性对照（与 T31D 同为位点 31）,0.970,P0
+N57A_pure_s01.json,N57A,新失活对照·与 N57W 同位点、扰动最小,,P0
+N57A_pure_s02.json,N57A,新失活对照·与 N57W 同位点、扰动最小,,P0
+N57A_pure_s03.json,N57A,新失活对照·与 N57W 同位点、扰动最小,,P0
+N57A_pure_s04.json,N57A,新失活对照·与 N57W 同位点、扰动最小,,P0
+E72A_pure_s01.json,E72A,新失活对照·催化碱（领域标准）,,P0
+E72A_pure_s02.json,E72A,新失活对照·催化碱（领域标准）,,P0
+E72A_pure_s03.json,E72A,新失活对照·催化碱（领域标准）,,P0
+E72A_pure_s04.json,E72A,新失活对照·催化碱（领域标准）,,P0

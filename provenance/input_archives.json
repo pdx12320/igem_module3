@@ -1,0 +1,84 @@
+[
+  {
+    "archive": "APOBEC_ORCA_N1-N4(1).zip",
+    "bytes": 5981868,
+    "sha256": "17d3c5f434a831730be48864465e952adfa55f3151f6887ed480ff766eaf0449",
+    "file_count": 79
+  },
+  {
+    "archive": "APOBEC_DBTL_迭代整理(3).docx",
+    "bytes": 2332929,
+    "sha256": "aa33be14620fb0811404d444ec4c948b055aa48656609ae75c80fc939dc5c8ab",
+    "file_count": 27
+  },
+  {
+    "archive": "APOBEC_DryLab_绘图数据包(1).zip",
+    "bytes": 6245577,
+    "sha256": "614bb1b694020c90c6f09b5ed53494efb74bc31eb7fdb24c1391a197e8e71d94",
+    "file_count": 39
+  },
+  {
+    "archive": "APOBEC_代码工作流包.zip",
+    "bytes": 555880,
+    "sha256": "8d5c834376dc110426bd145a4b03afe988658980293b36df019923759e58b75a",
+    "file_count": 96
+  },
+  {
+    "archive": "APOBEC_数据包_1_结构预测_基线三底物.zip",
+    "bytes": 71725673,
+    "sha256": "7080bfcc7fd469919a265d8e487397481c9da09bf1a75f35f2c45481d6662c95",
+    "file_count": 1383
+  },
+  {
+    "archive": "APOBEC_数据包_2_结构预测_突变体与对照.zip",
+    "bytes": 195735258,
+    "sha256": "fa18a7110ebf9e5a98b25202eb94ba1e4c5e8009106d6217484cec7d37a4fb9e",
+    "file_count": 3280
+  },
+  {
+    "archive": "APOBEC_数据包_3_测序与湿实验原始数据.zip",
+    "bytes": 446456042,
+    "sha256": "f0d87875602cbdf5821ff3550c43aba43aad2cec6ca0487e203461fbe5cf652a",
+    "file_count": 1639
+  },
+  {
+    "archive": "APOBEC_数据包_4_分析结果与任务输入.zip",
+    "bytes": 122302971,
+    "sha256": "3d48ee100f831ee4fe9e5202733c6e221b1f5b70fe360dc0f1ca4b15d530c4c0",
+    "file_count": 453
+  },
+  {
+    "archive": "APOBEC_数据包_0_说明与清单.zip",
+    "bytes": 482104,
+    "sha256": "908ae030fe97cd88d449ed4f4fbfb44095f9a25b8d75437336bfc3cff6763174",
+    "file_count": 5
+  },
+  {
+    "archive": "igem_module1.zip",
+    "bytes": 7057500,
+    "sha256": "37e5c6fb35315563c25cb3c200dba19f796c40c84afe5e09fd8a910e911663e8",
+    "file_count": 165
+  },
+  {
+    "archive": "igem_module2.zip",
+    "bytes": 7466612,
+    "sha256": "cb33f5fcbad516d92528fc968e4fd0c9dc05c1c079ca61280f3d65891849dc5f",
+    "file_count": 341
+  },
+  {
+    "archive": "ORCA-scientific-illustrator-latest-20260918(1).zip",
+    "bytes": 40574,
+    "sha256": "7ff8da0b545cd12fd060737a9b080f0d3b650010dd94a490b910d0d0d9dc7338",
+    "file_count": 13
+  },
+  {
+    "archive": "9.15 apobec.zip",
+    "bytes": 4508461,
+    "sha256": "8a9d0c669dd7749d8cad03b8e5fc100f713a3cee16fe43d2c960c396940e3e0e",
+    "file_count": 71
+  },
+  {
+    "archive": "APOBEC_ORCA_Figures_02-11(1).zip",
+    "sha256": "a99cddec7d3a4c0438649aa783c4fe1e6e1667ae2afb7d0309920857b10c7333"
+  }
+]

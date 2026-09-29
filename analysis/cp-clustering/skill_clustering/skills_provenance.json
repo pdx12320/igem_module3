@@ -1,0 +1,129 @@
+{
+  "record_date": "2026-09-15",
+  "skills": [
+    {
+      "name": "scikit-learn",
+      "source_repository": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "source_commit": "330c8e764435a731eff571e3efdda70b363d0792",
+      "source_path": "skills/scikit-learn",
+      "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills/blob/330c8e764435a731eff571e3efdda70b363d0792/skills/scikit-learn/SKILL.md",
+      "declared_version": "1.3",
+      "original_local_path": "/root/.codex/skills/scikit-learn",
+      "sha256": "0d443e2520a27dd6cdcbd8bfdd94f305de462166e97e0d4acdf3e35083a98b69",
+      "file_sha256": {
+        "SKILL.md": "0d443e2520a27dd6cdcbd8bfdd94f305de462166e97e0d4acdf3e35083a98b69",
+        "references/common_workflows.md": "46622a76232e595eafa8b568c4f52ee11479e24482ff36a1b6a1590cc3d95931",
+        "references/core_capabilities.md": "071aa20353e1ab33c3d20a6e2f81c43ef5847142bdabd8fa3658fd424e098b13",
+        "references/model_evaluation.md": "95825afc97206a6588c7fd1f9358e2b130bbbbe6ae5f1032923ee7dbaf6c11e5",
+        "references/pipelines_and_composition.md": "c856b5b21e03b1cf5e4094211a831b69f1ff1d8ecd7b0174ca3a28674aec0033",
+        "references/preprocessing.md": "e510e9f984e29162f950500edca082fe8d647c7bdb4ac066c295eb5eead8a2e1",
+        "references/quick_reference.md": "c34ef2f24089f22e80a1ca7794b2c089ce9fc07e6286206140c99f56fa30990e",
+        "references/supervised_learning.md": "f257bc6e165777baf81ffdc55c2f6e36bc770a94fb42d3b9b6ed844c3a7f8c83",
+        "references/unsupervised_learning.md": "a1f2a140c20e20f20de9c24a3be2ccacece1f192a1745c5f70a0c5e3cb972850",
+        "scripts/classification_pipeline.py": "0879a3643690c4e8245a9e57ebac631751a1178d0b4c31b0bde87ce0c38992d0",
+        "scripts/clustering_analysis.py": "aec71c7f1abfbc218eaa7ce000a85a726bef4d7b777038179aa4b44e96ca4d78"
+      },
+      "persistent_installation_status": "verified_after_reconciliation",
+      "persistent_path": "/root/.codex/skills/remote-skills/skill-6aa8ebc3d9a881919cb650781bd08064",
+      "verified_remote_path": "skill-6aa8ebc3d9a881919cb650781bd08064/SKILL.md",
+      "installed_sha256": "ec94850f91b5cb56afe0d372ada2eac07ef6198e520e5d4120b0a33944e4c9a5",
+      "skill_detail_url": "https://chatgpt.com/skills?skill_id=6aa8ebc3d9a881919cb650781bd08064",
+      "host_adaptations": [
+        "Moved upstream top-level compatibility unchanged into metadata.compatibility to meet host frontmatter schema; body and scripts unchanged."
+      ],
+      "upstream_files_verified": true,
+      "verified_remote_head": "352cc479d23ee70466ce5b6637bb7a52212a944d",
+      "upstream_version": "1.3",
+      "installed_version": "1.3"
+    },
+    {
+      "name": "umap-learn",
+      "source_repository": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "source_commit": "330c8e764435a731eff571e3efdda70b363d0792",
+      "source_path": "skills/umap-learn",
+      "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills/blob/330c8e764435a731eff571e3efdda70b363d0792/skills/umap-learn/SKILL.md",
+      "declared_version": "1.3",
+      "original_local_path": "/root/.codex/skills/umap-learn",
+      "sha256": "3990319c2ad242d595ec56dc08a5ee2c373f53c96f2061d67e9931de3d74a7ca",
+      "file_sha256": {
+        "SKILL.md": "3990319c2ad242d595ec56dc08a5ee2c373f53c96f2061d67e9931de3d74a7ca",
+        "references/api_reference.md": "d06e2ef8d7752c99be4a75209eb81799bb095424966c3204710c4813dbf81b86"
+      },
+      "persistent_installation_status": "verified_after_reconciliation",
+      "persistent_path": "/root/.codex/skills/remote-skills/skill-6aa8ec0b70048191bc91540163998e2b",
+      "verified_remote_path": "skill-6aa8ec0b70048191bc91540163998e2b/SKILL.md",
+      "installed_sha256": "3990319c2ad242d595ec56dc08a5ee2c373f53c96f2061d67e9931de3d74a7ca",
+      "skill_detail_url": "https://chatgpt.com/skills?skill_id=6aa8ec0b70048191bc91540163998e2b",
+      "host_adaptations": [],
+      "upstream_files_verified": true,
+      "verified_remote_head": "352cc479d23ee70466ce5b6637bb7a52212a944d",
+      "upstream_version": "1.3",
+      "installed_version": "1.3"
+    },
+    {
+      "name": "statistical-analysis",
+      "source_repository": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "source_commit": "330c8e764435a731eff571e3efdda70b363d0792",
+      "source_path": "skills/statistical-analysis",
+      "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills/blob/330c8e764435a731eff571e3efdda70b363d0792/skills/statistical-analysis/SKILL.md",
+      "declared_version": "1.2",
+      "original_local_path": "/root/.codex/skills/statistical-analysis",
+      "sha256": "1b1d63fd667ef454a8e0cadf32457a511883d3308dcc79c47c48bc565d9a23f7",
+      "file_sha256": {
+        "SKILL.md": "1b1d63fd667ef454a8e0cadf32457a511883d3308dcc79c47c48bc565d9a23f7",
+        "references/assumptions_and_diagnostics.md": "b8fdccb2d2f160c78bd11415e30c50a0dea755f046e936b8c85b23333d1b47f8",
+        "references/bayesian_statistics.md": "c6b994b512c38009f26aed3913884aa85fef2bdcefd8a9858b124deed3a05f70",
+        "references/effect_sizes_and_power.md": "6de003ff25fe3613322f5cfbd4d042327b17a381c034bc2dbbe068212ecce732",
+        "references/reporting_standards.md": "6854623fb5e8080e7d02b6c713ee44cb4a4cf03757d97840764118af54137a88",
+        "references/test_selection_guide.md": "64f5d93f87d83431b767a24d6b32c0ed82f2cbd32b1bd07476b49b5ac6a858a5",
+        "scripts/assumption_checks.py": "3fabf359ab0128bbfc498dadb53a4782431cde473c0a6681ea7298a605757018"
+      },
+      "persistent_installation_status": "verified_after_reconciliation",
+      "persistent_path": "/root/.codex/skills/remote-skills/skill-6aa8ec3975a48191ac433ae562a682b6",
+      "verified_remote_path": "skill-6aa8ec3975a48191ac433ae562a682b6/SKILL.md",
+      "installed_sha256": "1b1d63fd667ef454a8e0cadf32457a511883d3308dcc79c47c48bc565d9a23f7",
+      "skill_detail_url": "https://chatgpt.com/skills?skill_id=6aa8ec3975a48191ac433ae562a682b6",
+      "host_adaptations": [],
+      "upstream_files_verified": true,
+      "verified_remote_head": "352cc479d23ee70466ce5b6637bb7a52212a944d",
+      "upstream_version": "1.2",
+      "installed_version": "1.2"
+    }
+  ],
+  "method_adaptations": [
+    "Independent biological unit is 11 constructs; average five models within seed and seeds within construct; retain all 56 seeds for resampling.",
+    "Cluster selection and feature filtering use no activity labels; submission table is post hoc comparison only.",
+    "Use raw CP probability units as primary geometry; feature-wise zscore is a separately reported sensitivity analysis.",
+    "For 11 constructs restrict non-density k range to 2–4; record singleton and noise membership.",
+    "Evaluate all methods in original CP geometry as well as fitted geometry; do not compare distinct embeddings only through their native silhouette.",
+    "GMM uses low fixed-dimensional PCA and constrained covariance; BIC comparisons require exactly the same input representation.",
+    "DBSCAN and HDBSCAN failures, single-cluster and all-noise results must remain in the result table.",
+    "UMAP default n_neighbors=30 and min_cluster_size=15 are unsuitable for 11 constructs; use several small neighborhoods and random seeds and label results exploratory.",
+    "Resample whole seeds within construct and refit feature selection and transformations inside each bootstrap.",
+    "Do not suppress all warnings; record numerical failures and convergence warnings."
+  ],
+  "references": [
+    {
+      "title": "Scientific Agent Skills: A Library of Procedural Knowledge for Research Agents",
+      "authors": [
+        "Timothy Kassis",
+        "Vinayak Agarwal",
+        "Yuhuan He",
+        "Darshil Patel",
+        "Aubrey M. Brueckner"
+      ],
+      "year": 2026,
+      "doi": "10.48550/arXiv.2609.00065",
+      "url": "https://arxiv.org/abs/2609.00065",
+      "verified_current_revision": "v2, 2026-09-02"
+    },
+    {
+      "title": "scikit-learn clustering user guide",
+      "url": "https://scikit-learn.org/stable/modules/clustering.html"
+    },
+    {
+      "title": "Using UMAP for Clustering",
+      "url": "https://umap-learn.readthedocs.io/en/latest/clustering.html"
+    }
+  ]
+}

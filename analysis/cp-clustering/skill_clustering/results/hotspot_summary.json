@@ -1,0 +1,103 @@
+{
+  "n_constructs": 11,
+  "n_nonlocal_CP": 19110,
+  "n_variable_CP": 766,
+  "n_main_algorithms": 6,
+  "n_unique_main_partitions": 3,
+  "n_related_main_subset_pipelines": 24,
+  "n_unique_partitions_across_24_pipelines": 3,
+  "BCSS_formula": "sum_k n_k * (mean_CP_in_cluster_k - overall_mean_CP)^2, raw CP probability units squared",
+  "residue_formula": "sum of incident contact BCSS; each contact contributes to both endpoints",
+  "equal_weight_consensus": "arithmetic mean raw BCSS across unique partitions, each counted once",
+  "LOCO_definition": "omit each construct, recompute sample variance across remaining ten construct means and incident-residue variance ranks",
+  "rank_ties": "competition rank (min); zero scores never selected as top20",
+  "activity_used": false,
+  "partitions": [
+    {
+      "partition": 1,
+      "methods": [
+        "ward",
+        "kmeans",
+        "spectral"
+      ],
+      "groups": [
+        [
+          "wt",
+          "e72a",
+          "g27dm130g",
+          "g27tk30hq58m",
+          "k30h",
+          "m132d",
+          "m132e",
+          "t31a",
+          "t31d"
+        ],
+        [
+          "n57a",
+          "n57w"
+        ]
+      ],
+      "n_clusters": 2,
+      "total_BCSS": 4.23996788983586,
+      "variance_explained_fraction": 0.49245198303881366
+    },
+    {
+      "partition": 2,
+      "methods": [
+        "average",
+        "complete"
+      ],
+      "groups": [
+        [
+          "wt",
+          "e72a",
+          "g27dm130g",
+          "g27tk30hq58m",
+          "k30h",
+          "m132d",
+          "m132e",
+          "n57a",
+          "t31a",
+          "t31d"
+        ],
+        [
+          "n57w"
+        ]
+      ],
+      "n_clusters": 2,
+      "total_BCSS": 3.881529925426137,
+      "variance_explained_fraction": 0.4508211285238289
+    },
+    {
+      "partition": 3,
+      "methods": [
+        "pca95_kmeans"
+      ],
+      "groups": [
+        [
+          "wt",
+          "e72a",
+          "k30h",
+          "m132d",
+          "m132e",
+          "t31a",
+          "t31d"
+        ],
+        [
+          "g27dm130g",
+          "g27tk30hq58m"
+        ],
+        [
+          "n57a",
+          "n57w"
+        ]
+      ],
+      "n_clusters": 3,
+      "total_BCSS": 6.158428591720779,
+      "variance_explained_fraction": 0.7152720141267935
+    }
+  ],
+  "rank_correlation_prior_variance_vs_unique_BCSS": 0.9575584611094774,
+  "top20_overlap_prior_variance_vs_unique_BCSS": 17,
+  "sequence_W95_check": "W"
+}

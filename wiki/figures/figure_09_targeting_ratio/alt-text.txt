@@ -1,0 +1,1 @@
+Two scatter panels show targeting ratio against on-target editing and summed non-GCG editing for 41 mutants.

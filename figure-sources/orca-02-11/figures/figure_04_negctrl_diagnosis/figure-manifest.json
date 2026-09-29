@@ -1,0 +1,59 @@
+{
+  "template_version": "orca-data-1.1",
+  "font": "Futura",
+  "cjk_font": "Arial Unicode MS",
+  "notes": [],
+  "runtime": {
+    "python": "3.13.7",
+    "matplotlib": "3.10.6",
+    "numpy": "2.3.3"
+  },
+  "export": {
+    "width_in": 15.8,
+    "height_in": 21.0,
+    "dpi": 300.0,
+    "display_width_px": 960,
+    "svg_text": "paths",
+    "pdf_fonttype": 42
+  },
+  "provenance": {
+    "source_files": [
+      {
+        "file": "source-data/figure_04_negctrl_diagnosis.csv",
+        "sha256": "9745edaac9f762d546a48b93ae4a64d58ffbdd44397e06104681ba0bc362671a"
+      }
+    ],
+    "data_kind": "Supplied construct-level or model-level summaries; no invented repeats or error bars",
+    "checks": {
+      "rows": 29,
+      "A_distance_bars": 28,
+      "B_descriptor_bars": 87,
+      "WT_reference_A": 2.599,
+      "functional_classes": 6
+    },
+    "exclusions": [
+      {
+        "id": "E72A",
+        "panel": "A",
+        "reason": "Distance unavailable; row and category retained"
+      }
+    ],
+    "processing": {
+      "orientation_change": "Vertical to horizontal to preserve readable labels"
+    },
+    "source_values_modified": false,
+    "plotted_tables": {
+      "A": "plotted-panel-a.csv",
+      "B": "plotted-panel-b.csv"
+    },
+    "panel_row_counts": {
+      "A": 28,
+      "B": 29
+    },
+    "render_validation": {
+      "PNG": "Matplotlib Agg; opened and visually checked",
+      "PDF": "PyMuPDF render",
+      "SVG": "Sharp / librsvg render; hatch patterns checked"
+    }
+  }
+}

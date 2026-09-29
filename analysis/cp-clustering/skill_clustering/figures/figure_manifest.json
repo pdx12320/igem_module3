@@ -1,0 +1,59 @@
+[
+  {
+    "figure": "pipeline_membership_matrix",
+    "files": [
+      "figures/pipeline_membership_matrix.png",
+      "figures/pipeline_membership_matrix.pdf",
+      "figures/pipeline_membership_matrix.svg"
+    ],
+    "width_inches": 16.0,
+    "height_inches": 14.2,
+    "dpi_png": 300,
+    "font": "Noto Sans CJK SC",
+    "svg_text": "paths",
+    "alt_text": "32 条流程的 11 个构建簇标签矩阵，显示 T31A 与 T31D 始终同簇或同时被视为噪声；密度聚类覆盖率下降。",
+    "caption": "各行独立编号；所有原 CP 指标采用共同原始接触概率空间。噪声不计入轮廓系数，覆盖率保留其影响。",
+    "source_data": [
+      "results/pipeline_labels.csv",
+      "results/pipeline_summary.csv"
+    ]
+  },
+  {
+    "figure": "pipeline_metrics_and_stability",
+    "files": [
+      "figures/pipeline_metrics_and_stability.png",
+      "figures/pipeline_metrics_and_stability.pdf",
+      "figures/pipeline_metrics_and_stability.svg"
+    ],
+    "width_inches": 15.8,
+    "height_inches": 9.1,
+    "dpi_png": 300,
+    "font": "Noto Sans CJK SC",
+    "svg_text": "paths",
+    "alt_text": "代表性流程的共同空间轮廓系数、200 次 seed 重采样分组复现率与覆盖率；高分密度结果仅覆盖部分构建。",
+    "caption": "完整复现率依照主分析的原始簇标签比较计算，含噪声标签；全噪声复现不构成可用分组。实心为重选簇数，空心为固定基准簇数。",
+    "source_data": [
+      "results/pipeline_summary.csv",
+      "results/pipeline_seed_bootstrap.csv"
+    ]
+  },
+  {
+    "figure": "main_methods_pairwise_consensus",
+    "files": [
+      "figures/main_methods_pairwise_consensus.png",
+      "figures/main_methods_pairwise_consensus.pdf",
+      "figures/main_methods_pairwise_consensus.svg"
+    ],
+    "width_inches": 16.8,
+    "height_inches": 9.5,
+    "dpi_png": 300,
+    "font": "Noto Sans CJK SC",
+    "svg_text": "paths",
+    "alt_text": "六种主要聚类方法的构建同簇比例，以及 200 次 seed 重采样的平均同簇比例。T31A 和 T31D 的同簇关系为 100%，N57A 与 N57W 的共同分组依赖方法。",
+    "caption": "六方法等权，方法并非独立重复。左图为基准结果的 6 方法投票；右图为每方法 200 次重选簇数后同簇矩阵的均值。",
+    "source_data": [
+      "results/pipeline_labels.csv",
+      "results/pipeline_coclustering.npz"
+    ]
+  }
+]

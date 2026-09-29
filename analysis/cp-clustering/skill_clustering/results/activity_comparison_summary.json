@@ -1,0 +1,27 @@
+{
+  "n_baseline_pipelines": 34,
+  "T31_pair_states": {
+    "同簇": 32,
+    "至少一个为噪声/未分组": 2
+  },
+  "clean_activity_constructs": [
+    "m132d",
+    "m132e",
+    "k30h",
+    "g27tk30hq58m",
+    "t31d",
+    "n57w",
+    "t31a"
+  ],
+  "missing_activity_constructs": [
+    "wt",
+    "n57a",
+    "e72a"
+  ],
+  "mismatched_constructs": [
+    "g27dm130g"
+  ],
+  "activity_units": "unspecified; values preserved, not converted to percentages",
+  "no_C_specific_labels": true,
+  "analysis_freeze": "Clustering and hotspot ranking were complete before this file reads activity values"
+}

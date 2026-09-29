@@ -1,0 +1,121 @@
+{
+  "n_constructs": 11,
+  "n_nonlocal_CP": 19110,
+  "n_variable_CP": 766,
+  "n_main_algorithms": 6,
+  "n_unique_main_partitions": 3,
+  "n_related_main_subset_pipelines": 24,
+  "n_unique_partitions_across_24_pipelines": 3,
+  "BCSS_formula": "sum_k n_k * (mean_CP_in_cluster_k - overall_mean_CP)^2, raw CP probability units squared",
+  "residue_formula": "sum of incident contact BCSS; each contact contributes to both endpoints",
+  "equal_weight_consensus": "arithmetic mean raw BCSS across unique partitions, each counted once",
+  "LOCO_definition": "omit each construct, recompute sample variance across remaining ten construct means and incident-residue variance ranks",
+  "rank_ties": "competition rank (min); zero scores never selected as top20",
+  "activity_used": false,
+  "partitions": [
+    {
+      "partition": 1,
+      "methods": [
+        "ward",
+        "kmeans",
+        "spectral"
+      ],
+      "groups": [
+        [
+          "wt",
+          "e72a",
+          "g27dm130g",
+          "g27tk30hq58m",
+          "k30h",
+          "m132d",
+          "m132e",
+          "t31a",
+          "t31d"
+        ],
+        [
+          "n57a",
+          "n57w"
+        ]
+      ],
+      "n_clusters": 2,
+      "total_BCSS": 4.23996788983586,
+      "variance_explained_fraction": 0.49245198303881366
+    },
+    {
+      "partition": 2,
+      "methods": [
+        "average",
+        "complete"
+      ],
+      "groups": [
+        [
+          "wt",
+          "e72a",
+          "g27dm130g",
+          "g27tk30hq58m",
+          "k30h",
+          "m132d",
+          "m132e",
+          "n57a",
+          "t31a",
+          "t31d"
+        ],
+        [
+          "n57w"
+        ]
+      ],
+      "n_clusters": 2,
+      "total_BCSS": 3.881529925426137,
+      "variance_explained_fraction": 0.4508211285238289
+    },
+    {
+      "partition": 3,
+      "methods": [
+        "pca95_kmeans"
+      ],
+      "groups": [
+        [
+          "wt",
+          "e72a",
+          "k30h",
+          "m132d",
+          "m132e",
+          "t31a",
+          "t31d"
+        ],
+        [
+          "g27dm130g",
+          "g27tk30hq58m"
+        ],
+        [
+          "n57a",
+          "n57w"
+        ]
+      ],
+      "n_clusters": 3,
+      "total_BCSS": 6.158428591720779,
+      "variance_explained_fraction": 0.7152720141267935
+    }
+  ],
+  "rank_correlation_prior_variance_vs_unique_BCSS": 0.9575584611094774,
+  "top20_overlap_prior_variance_vs_unique_BCSS": 17,
+  "sequence_W95_check": "W"
+}
+residue  prior_variance_rank  unique_partition_equal_rank  unique_partition_top20_fraction  LOCO_rank_min  LOCO_rank_max  LOCO_top20_fraction
+    N23                    2                            7                         0.333333              2              7             1.000000
+    N74                    6                            5                         1.000000              4             11             1.000000
+    L33                   11                           12                         1.000000             11             14             1.000000
+    Y32                   15                           16                         0.666667              4             23             0.909091
+    N21                   17                           19                         0.666667              9             22             0.909091
+    R28                   18                           25                         0.333333              5             28             0.818182
+   F129                   21                           56                         0.000000             10             38             0.636364
+    W99                   20                           26                         0.333333              8             31             0.818182
+   A108                   22                           75                         0.000000             13             64             0.363636
+   R127                   32                           37                         0.000000             19             46             0.090909
+    G68                    4                            2                         1.000000              2             14             1.000000
+    F66                    5                            3                         1.000000              5             16             1.000000
+    N61                    7                            4                         1.000000              6             18             1.000000
+    H70                   16                           38                         0.000000              7             35             0.909091
+    E72                   25                           33                         0.000000             15             26             0.090909
+   C102                   59                           65                         0.000000             56             63             0.000000
+   C105                   42                           71                         0.000000             28             86             0.000000

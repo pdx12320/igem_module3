@@ -1,0 +1,30 @@
+[
+  {
+    "name": "N1_combinatorial_pareto",
+    "svg_mean_absolute_pixel_difference": 1.2312900270061728,
+    "pdf_mean_absolute_pixel_difference": 2.0601268325617283,
+    "svg_is_vector_no_raster": true,
+    "svg_text_as_paths": true
+  },
+  {
+    "name": "N2_within_batch_rank",
+    "svg_mean_absolute_pixel_difference": 0.807370949074074,
+    "pdf_mean_absolute_pixel_difference": 1.6537737268518518,
+    "svg_is_vector_no_raster": true,
+    "svg_text_as_paths": true
+  },
+  {
+    "name": "N3_designed_batch",
+    "svg_mean_absolute_pixel_difference": 1.4680024509803922,
+    "pdf_mean_absolute_pixel_difference": 3.0349642565359476,
+    "svg_is_vector_no_raster": true,
+    "svg_text_as_paths": true
+  },
+  {
+    "name": "N4_third_batch",
+    "svg_mean_absolute_pixel_difference": 1.0562260341183576,
+    "pdf_mean_absolute_pixel_difference": 2.163910212862319,
+    "svg_is_vector_no_raster": true,
+    "svg_text_as_paths": true
+  }
+]

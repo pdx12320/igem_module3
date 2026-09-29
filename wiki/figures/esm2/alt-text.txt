@@ -1,0 +1,1 @@
+Symmetric eleven-by-eleven ESM-2 cosine-distance matrix. E72A is relatively distant from the other constructs; T31A and T31D are not assigned separate clusters by the predeclared primary analysis. White is zero and indigo indicates larger distance.

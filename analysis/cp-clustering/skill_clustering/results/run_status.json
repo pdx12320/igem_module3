@@ -1,0 +1,11 @@
+{
+  "numeric_status": "complete",
+  "main_configurations": 32,
+  "main_seed_bootstrap_rows": 6400,
+  "umap_algorithm_results": 320,
+  "hotspot_candidates": 17,
+  "independent_numeric_audit": "passed",
+  "original_run_export_exception": "NumPy int64 in baseline_details JSON after all numeric CSV/NPZ completed",
+  "repair": "numpy scalar serialization corrected in script; completed baseline_details reconstructed from saved baseline CSV",
+  "scientific_outputs_changed_by_repair": false
+}

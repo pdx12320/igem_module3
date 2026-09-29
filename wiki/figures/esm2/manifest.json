@@ -1,0 +1,12 @@
+{
+  "source": "analysis/esm2/results/layer12_distances.csv",
+  "shape": [
+    11,
+    11
+  ],
+  "vmin": 0,
+  "vmax": 0.0005915414906466,
+  "ordering": "original source order",
+  "interpolation": "none",
+  "matplotlib": "3.9.2"
+}

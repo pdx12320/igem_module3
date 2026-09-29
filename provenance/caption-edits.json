@@ -1,0 +1,38 @@
+[
+  {
+    "file": "wiki/figures/figure_03_ddcp_heatmap/caption.md",
+    "change": "Concise publication caption; full original caption preserved in figure-sources."
+  },
+  {
+    "file": "wiki/figures/figure_04_negctrl_diagnosis/caption.md",
+    "change": "Concise publication caption; full original caption preserved in figure-sources."
+  },
+  {
+    "file": "wiki/figures/figure_08_single_site/caption.md",
+    "change": "Concise publication caption; full original caption preserved in figure-sources."
+  },
+  {
+    "file": "wiki/figures/N1_combinatorial_pareto/caption.md",
+    "change": "Concise publication caption; full original caption preserved in figure-sources."
+  },
+  {
+    "file": "wiki/figures/figure_09_targeting_ratio/caption.md",
+    "change": "Concise publication caption; full original caption preserved in figure-sources."
+  },
+  {
+    "file": "wiki/figures/figure_10_candidates/caption.md",
+    "change": "Concise publication caption; full original caption preserved in figure-sources."
+  },
+  {
+    "file": "wiki/figures/N3_designed_batch/caption.md",
+    "change": "Concise publication caption; full original caption preserved in figure-sources."
+  },
+  {
+    "file": "wiki/figures/figure_07_protein_only_vs_complex/caption.md",
+    "change": "Concise publication caption; full original caption preserved in figure-sources."
+  },
+  {
+    "file": "wiki/figures/N4_third_batch/caption.md",
+    "change": "Concise publication caption; full original caption preserved in figure-sources."
+  }
+]

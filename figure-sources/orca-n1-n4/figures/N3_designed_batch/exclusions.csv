@@ -1,0 +1,3 @@
+source_file,source_row,construct,candidate_id,design_group,design_group_label_en,on_target_GCG_over_offtarget_GCA_ratio,ratio_defined,ROF_ratio_over_same_batch_parent,activity_retention_fraction,is_reference_parent,excluded_failed_well,reason
+designed_batch_groups.csv,8,27T-30H-58M,C13,A,A replication,,False,,0.0789,False,True,Failed well; all values invalid for interpretation
+designed_batch_groups.csv,14,26N-31G,E05,E,E relaxed / anomalous,,False,,,False,False,Undefined ratio and unavailable retention

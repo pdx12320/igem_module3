@@ -1,0 +1,27 @@
+[
+  {
+    "file": "code/historical/code/s4_contacts/13_pssm_validation.py",
+    "source_sha256": "d197ea7bf163ee3b5402743eb0b4aee397ee7aa6e97e909ea49fb707c2331a4b",
+    "change": "Replace machine-specific external input prefix with data/external; original is not modified."
+  },
+  {
+    "file": "code/historical/code/s10_batches/analyze_new_batch.py",
+    "source_sha256": "8220f532a62bce45f7b9cc0e1b8c22d5f0f46686c8e8f927e35714cf1078fa99",
+    "change": "Replace machine-specific external input prefix with data/external; original is not modified."
+  },
+  {
+    "file": "code/historical/code/s10_batches/analyze_batch3.py",
+    "source_sha256": "1ab6e89cd43629040105ae010426ef1e46fcf9d67ccbc53ee341a9d6ec5fdd88",
+    "change": "Replace machine-specific external input prefix with data/external; original is not modified."
+  },
+  {
+    "file": "code/historical/code/s9_candidates/analyze_pos29_screen.py",
+    "source_sha256": "55972c5d409a4029f17d1bdcbc340a4eb28eddb17a5492fcc8155ee00314d090",
+    "change": "Replace machine-specific external input prefix with data/external; original is not modified."
+  },
+  {
+    "file": "code/historical/code/s7_wetlab/09_experimental_validation.py",
+    "source_sha256": "4a65414cf083214b51048327f626793e9698b329049e0bfbef8a97752a562972",
+    "change": "Replace machine-specific external input prefix with data/external; original is not modified."
+  }
+]

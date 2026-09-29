@@ -1,0 +1,74 @@
+[
+  {
+    "source_id": "03",
+    "placement": "main",
+    "purpose": "Contact redistribution",
+    "png": "wiki/figures/figure_03_ddcp_heatmap/figure_03_ddcp_heatmap.png",
+    "png_sha256": "2ddbc86a5c48f6fc3ba0cfdcdfc6fc311fe6057117b4cdae3e373007fc98e068",
+    "svg": "wiki/figures/figure_03_ddcp_heatmap/figure_03_ddcp_heatmap.svg"
+  },
+  {
+    "source_id": "04",
+    "placement": "main",
+    "purpose": "Control audit",
+    "png": "wiki/figures/figure_04_negctrl_diagnosis/figure_04_negctrl_diagnosis.png",
+    "png_sha256": "29763efdb2aa140536728b5a3c3fa96edc1a16dd83a34e6060890d1b92d546a3",
+    "svg": "wiki/figures/figure_04_negctrl_diagnosis/figure_04_negctrl_diagnosis.svg"
+  },
+  {
+    "source_id": "08",
+    "placement": "main",
+    "purpose": "Single-mutant screen",
+    "png": "wiki/figures/figure_08_single_site/figure_08_single_site.png",
+    "png_sha256": "77bbb3611509da93a3120a069b923760b6f7186d48f97451ee8ed3dabd7c7d92",
+    "svg": "wiki/figures/figure_08_single_site/figure_08_single_site.svg"
+  },
+  {
+    "source_id": "N1",
+    "placement": "main",
+    "purpose": "Joint ratio–activity comparison",
+    "png": "wiki/figures/N1_combinatorial_pareto/N1_combinatorial_pareto.png",
+    "png_sha256": "76ed60ecdcef4460aa1065240fa882a4465dd13a5e1b6ed97eb50c27e6caa732",
+    "svg": "wiki/figures/N1_combinatorial_pareto/N1_combinatorial_pareto.svg"
+  },
+  {
+    "source_id": "09",
+    "placement": "main",
+    "purpose": "Amplicon readout",
+    "png": "wiki/figures/figure_09_targeting_ratio/figure_09_targeting_ratio.png",
+    "png_sha256": "e9f9e1502ba7368a1e26e80be55e48d70e926aac560cb3b8dcd408964ef687c2",
+    "svg": "wiki/figures/figure_09_targeting_ratio/figure_09_targeting_ratio.svg"
+  },
+  {
+    "source_id": "10",
+    "placement": "main",
+    "purpose": "Candidate design",
+    "png": "wiki/figures/figure_10_candidates/figure_10_candidates.png",
+    "png_sha256": "05f5e9c703f484a4f63524ea06820f3e54f808c2cb8b4a8b661aaf42795971b3",
+    "svg": "wiki/figures/figure_10_candidates/figure_10_candidates.svg"
+  },
+  {
+    "source_id": "N3",
+    "placement": "main",
+    "purpose": "Designed batch",
+    "png": "wiki/figures/N3_designed_batch/N3_designed_batch.png",
+    "png_sha256": "53a87c081d188cada26a2012e68473ff27e1e868abdba9f006df533c5bbfdfb6",
+    "svg": "wiki/figures/N3_designed_batch/N3_designed_batch.svg"
+  },
+  {
+    "source_id": "07",
+    "placement": "supporting-asset",
+    "purpose": "Representation sensitivity",
+    "png": "wiki/figures/figure_07_protein_only_vs_complex/figure_07_protein_only_vs_complex.png",
+    "png_sha256": "8a232849f4b29126450239833b3174d3fef7643120fbe2f1d0fa1573c698333e",
+    "svg": "wiki/figures/figure_07_protein_only_vs_complex/figure_07_protein_only_vs_complex.svg"
+  },
+  {
+    "source_id": "N4",
+    "placement": "supporting-asset",
+    "purpose": "Third-batch context",
+    "png": "wiki/figures/N4_third_batch/N4_third_batch.png",
+    "png_sha256": "27137f3b88fb226247c5cba2cb1e6e3358dadb21a8304f6c5fb81c11947a2c51",
+    "svg": "wiki/figures/N4_third_batch/N4_third_batch.svg"
+  }
+]

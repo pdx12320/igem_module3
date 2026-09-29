@@ -1,0 +1,43 @@
+{
+  "zip_crc_checked_during_read": true,
+  "actual_files": 6755,
+  "manifest_rows": 6758,
+  "hash_or_size_mismatches": [],
+  "unlisted_in_manifest": [],
+  "missing_from_archives": [
+    "results/~$下一步实验突变候选表_40组.xlsx",
+    "results/~$下一步实验突变候选表_41组.xlsx",
+    "results/~$湿实验突变清单_引物设计用.xlsx"
+  ],
+  "duplicate_member_paths": [],
+  "assets": [
+    {
+      "asset": "data-1-baseline-structures.zip",
+      "source_archive": "APOBEC_数据包_1_结构预测_基线三底物.zip",
+      "bytes": 71725673,
+      "sha256": "7080bfcc7fd469919a265d8e487397481c9da09bf1a75f35f2c45481d6662c95",
+      "file_count": 1383
+    },
+    {
+      "asset": "data-2-mutants-controls.zip",
+      "source_archive": "APOBEC_数据包_2_结构预测_突变体与对照.zip",
+      "bytes": 195735258,
+      "sha256": "fa18a7110ebf9e5a98b25202eb94ba1e4c5e8009106d6217484cec7d37a4fb9e",
+      "file_count": 3280
+    },
+    {
+      "asset": "data-3-sequencing-wetlab.zip",
+      "source_archive": "APOBEC_数据包_3_测序与湿实验原始数据.zip",
+      "bytes": 446456042,
+      "sha256": "f0d87875602cbdf5821ff3550c43aba43aad2cec6ca0487e203461fbe5cf652a",
+      "file_count": 1639
+    },
+    {
+      "asset": "data-4-results-inputs.zip",
+      "source_archive": "APOBEC_数据包_4_分析结果与任务输入.zip",
+      "bytes": 122302971,
+      "sha256": "3d48ee100f831ee4fe9e5202733c6e221b1f5b70fe360dc0f1ca4b15d530c4c0",
+      "file_count": 453
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "package": "APOBEC Dry Lab — 绘图数据交付包",
+  "created_for": "绘图同学，用于重绘 Dry Lab 页面全部图",
+  "article": "APOBEC_DryLab_Complete（Dry Lab 页面，共 16 张图）",
+  "figures_in_scope": {
+    "figure_02 – figure_11": "本次交付数据，由本包 data/ 中对应 CSV 生成",
+    "figure_15": "设计批次的实测结果，由 data/figure_15a、figure_15b 生成",
+    "figure_16": "复现检验与 27 位饱和，由 data/figure_16a、figure_16b 生成",
+    "figure_01, figure_12 – figure_14": "聚类分析图，数据在队友自己的 skill_clustering 交付包中；本包 reference/ 仅提供现图供版式参考"
+  },
+  "data_files": [
+    {
+      "file": "data/figure_02_cp_deviation.csv",
+      "rows": 14,
+      "columns": [
+        "construct",
+        "z_internal_cp_longrange",
+        "z_pocket_cp",
+        "z_protein_targetC_cp",
+        "target_C4N4_to_E72_distance_A",
+        "activity_retention_fraction"
+      ],
+      "note": "面板 A = 前三个 z 列分组柱状图（灰带 ±3）；面板 B = z_protein_targetC_cp 对 activity_retention_fraction 散点。仅 GCG 底物。"
+    },
+    {
+      "file": "data/figure_03_ddcp_matrix.csv",
+      "rows": 22,
+      "columns": [
+        "residue_position",
+        "wt_aa",
+        "G25E",
+        "G25E-K30H",
+        "G27T",
+        "G27D",
+        "G27T-K30H",
+        "G27D-K30H",
+        "G27T-K30H-Q58M",
+        "G27D-K30H-Q58M",
+        "K30H",
+        "K30H-Q58M",
+        "Q58M",
+        "R28A",
+        "R28S",
+        "T31V",
+        "T31I",
+        "T31L",
+        "Y32F",
+        "A59P",
+        "K60R",
+        "M132D",
+        "M132E"
+      ],
+      "note": "ΔΔCP 宽表（行=残基，列=构建体）。已按 |ΔΔCP| 最大值选出变化最大的 22 个残基，与文章图一致。"
+    },
+    {
+      "file": "data/figure_03_all_residues_ddcp.csv",
+      "rows": 199,
+      "columns": [
+        "residue_position",
+        "wt_aa",
+        "G25E",
+        "G25E-K30H",
+        "G27T",
+        "G27D",
+        "G27T-K30H",
+        "G27D-K30H",
+        "G27T-K30H-Q58M",
+        "G27D-K30H-Q58M",
+        "K30H",
+        "K30H-Q58M",
+        "Q58M",
+        "R28A",
+        "R28S",
+        "T31V",
+        "T31I",
+        "T31L",
+        "Y32F",
+        "A59P",
+        "K60R",
+        "M132D",
+        "M132E"
+      ],
+      "note": "完整 199 残基 × 全部构建体的 ΔΔCP，供需要自行挑选残基时使用。"
+    },
+    {
+      "file": "data/figure_04_negctrl_diagnosis.csv",
+      "rows": 29,
+      "columns": [
+        "construct",
+        "is_reference_wildtype",
+        "functional_class",
+        "target_C4N4_to_E72_distance_A",
+        "z_internal_cp_longrange",
+        "z_pocket_cp",
+        "z_protein_targetC_cp",
+        "activity_retention_fraction"
+      ],
+      "note": "**两套编码，必须各配一套图例**：面板 A 的柱按 `functional_class` 着色（功能类别图例）；面板 B 的柱按描述量着色——Internal CP (long-range) 蓝、Pocket CP 橙、Protein–target-C CP 绿（描述量图例）。两条图例不可合并为一条。共 29 行 = 27 个突变体/组合对照 + 2 个野生型参照（is_reference_wildtype = TRUE）。类别取值共 6 种：Active / Inactive / Partially inactive / Not tested / New inactive control (not measured) / Wild-type reference；其中「New inactive control (not measured)」是设计但未实测的失活对照，**不得并入已实测的 Inactive 组**。面板 A 的参考线请取**本表内**野生型（GCG 亲本）的值 = 2.599 Å；不要使用 2.88 Å —— 那个值来自另一套几何测量（results/dE72_regression.csv 的野生型 2.884 Å），与本表不同源。E72A 的该列**留空**（未做几何建模），请勿补 0，也请勿在图上画成 0 点。另：正文「28 constructs」指的是 阴性对照_DM.csv 那一套（含 WT 换底物），与本表行数不同，作图按本表 29 行。"
+    },
+    {
+      "file": "data/figure_05_negctrl_pca.csv",
+      "rows": 28,
+      "columns": [
+        "construct",
+        "PC1",
+        "PC2",
+        "PC3",
+        "D_M_mahalanobis_to_WT",
+        "activity_retention_fraction",
+        "functional_class"
+      ],
+      "note": "面板 A = PC1–PC2 散点（仅标注 E72A / N57W / N57A / T31D / T31A / WT-GCA / Y32F）；面板 B = D_M 横向柱状（参考线 1.57）。"
+    },
+    {
+      "file": "data/figure_06a_protein_only_deviation.csv",
+      "rows": 10,
+      "columns": [
+        "construct",
+        "D_M_internal_cp_all",
+        "D_M_internal_cp_longrange",
+        "D_M_pocket_cp",
+        "activity_retention_fraction",
+        "functional_class"
+      ],
+      "note": "面板 A：三个特征集的分组柱状图。"
+    },
+    {
+      "file": "data/figure_06b_protein_only_classification.csv",
+      "rows": 3,
+      "columns": [
+        "feature_set",
+        "classification_accuracy",
+        "chance_level"
+      ],
+      "note": "面板 B：柱状图，参考线 = 随机水平 0.50。"
+    },
+    {
+      "file": "data/figure_07_protein_only_vs_complex.csv",
+      "rows": 10,
+      "columns": [
+        "construct",
+        "D_M_complex_with_RNA",
+        "D_M_protein_only_no_RNA",
+        "fraction_retained_pct",
+        "activity_retention_fraction"
+      ],
+      "note": "成对柱状图；参考线 1.57；仅在 T31D 与 E72A 上标注 fraction_retained_pct。"
+    },
+    {
+      "file": "data/figure_08_single_site.csv",
+      "rows": 103,
+      "columns": [
+        "mutant",
+        "on_target_GCG_fraction",
+        "off_target_GCA_fraction",
+        "ACA_fraction",
+        "plus1_ratio_GCG_over_GCA",
+        "plus1_ratio_defined",
+        "activity_retention_vs_same_batch_parent",
+        "read_depth",
+        "is_parent",
+        "reported_active"
+      ],
+      "note": "散点：横轴 plus1_ratio，纵轴 activity_retention。参考线：亲本 1.371（点线，= 亲本 GCG ÷ GCA，未舍入）、目标 2.0（橙虚线）、保留下限 0.70（绿虚线）。**星标 = K30H**，定义是「保留率 ≥ 0.70 的突变体中 +1 比最高者」——它既不是全图纵坐标最高点，也不是全图比值最高点。比值最高的三个点为 130G (3.00)、60Q (2.55)、31G (2.22)，但保留率分别只有 0.32 / 0.17 / 0.13，请在图上以灰点呈现并考虑加浅色标注，避免被读成「已达标」。**plus1_ratio_defined = FALSE 的行（31Y）**：其 GCA 检出为 0，比值不可定义（原表记为 0 属编码歧义），该行 plus1_ratio 已留空，请勿当作 0 值点绘制。"
+    },
+    {
+      "file": "data/figure_09_targeting_ratio.csv",
+      "rows": 51,
+      "columns": [
+        "construct",
+        "is_wildtype_parent",
+        "on_target_C388_pct",
+        "sum_GCG_editing_pct",
+        "sum_nonGCG_editing_pct",
+        "targeting_ratio",
+        "targeting_ratio_defined",
+        "n_nonGCG_sites_detected",
+        "activity_retention_fraction"
+      ],
+      "note": "面板 A：targeting_ratio 对 on_target_C388_pct（灰带 10–20% 与 35–60%，并标层中位数 2.53 / 1.20）；面板 B：对 sum_nonGCG_editing_pct 散点并加线性拟合。作图时请排除 is_wildtype_parent = TRUE 的行。targeting_ratio_defined = FALSE 表示分母为零、比值无定义，该单元格已留空请勿当 0 处理，这 9 行只在文中以「∞」记述、不入图。"
+    },
+    {
+      "file": "data/figure_10a_candidate_groups_raw.csv",
+      "rows": 61,
+      "columns": [
+        "candidate_id",
+        "group",
+        "group_label",
+        "mutant",
+        "priority_en"
+      ],
+      "note": "61 条候选的原始清单，供核对条目。group = A–E。"
+    },
+    {
+      "file": "data/figure_10b_candidate_group_sizes.csv",
+      "rows": 5,
+      "columns": [
+        "group",
+        "group_label_en",
+        "n_candidates"
+      ],
+      "note": "面板 A：各组规模柱状图。"
+    },
+    {
+      "file": "data/figure_10c_candidate_priority_matrix.csv",
+      "rows": 5,
+      "columns": [
+        "group",
+        "P0",
+        "P0 (control)",
+        "P0 (gold standard)",
+        "P0 (top pick)",
+        "P1",
+        "P1 (control)",
+        "P1 (mechanism)",
+        "P2",
+        "P2 (mechanism)",
+        "P2 (reference)",
+        "Required"
+      ],
+      "note": "面板 B：组内优先级堆叠柱状图（列即优先级类别）。"
+    },
+    {
+      "file": "data/figure_11a_sampling_frequency_by_position.csv",
+      "rows": 199,
+      "columns": [
+        "position",
+        "most_frequent_aa",
+        "frequency"
+      ],
+      "note": "ProteinMPNN 采样（48 条序列）逐位点最高频率，供自行重算「通过阈值位点数」曲线。"
+    },
+    {
+      "file": "data/figure_11b_positions_passing_threshold.csv",
+      "rows": 40,
+      "columns": [
+        "sampling_frequency_threshold",
+        "n_positions_passing"
+      ],
+      "note": "面板 A 的曲线数据；参考线 γ = 0.5（卷曲区）与 β = 0.8（结构化区）。"
+    },
+    {
+      "file": "data/figure_11c_contested_substitutions.csv",
+      "rows": 4,
+      "columns": [
+        "substitution",
+        "sampling_frequency",
+        "applicable_threshold_gamma",
+        "secondary_structure",
+        "exceeds_threshold"
+      ],
+      "note": "面板 B：柱状图，参考线 γ = 0.5。"
+    },
+    {
+      "file": "data/figure_15a_batch_rof_vs_retention.csv",
+      "rows": 37,
+      "columns": [
+        "construct",
+        "candidate_id",
+        "design_group",
+        "design_group_label_en",
+        "on_target_GCG_over_offtarget_GCA_ratio",
+        "ratio_defined",
+        "ROF_ratio_over_same_batch_parent",
+        "activity_retention_fraction",
+        "is_reference_parent",
+        "excluded_failed_well"
+      ],
+      "note": "面板 A：散点图，横轴 = activity_retention_fraction，纵轴 = ROF_ratio_over_same_batch_parent，按 design_group 着色。ratio_defined = FALSE 的构建体（c.871 未检出）不得按 0 绘制，应单独标记。参考线：ROF = 1.00（同批亲本水平）、activity_retention_fraction = 0.30（on-target 解读下限）。本批同批亲本 PUF12 比值 = 1.070（ROF 的分母即为此值），三批亲本比 1.371 → 1.191 → 1.070。excluded_failed_well = TRUE 的行（27T-30H-58M）是判为测量失败的孔，其保留率不是有效读数，只用于标注「此孔失败」，不得作为数据点、也不得参与任何计算。"
+    },
+    {
+      "file": "data/figure_15b_group_d_pairing.csv",
+      "rows": 5,
+      "columns": [
+        "bar_order",
+        "comparison",
+        "construct",
+        "candidate_id",
+        "batch",
+        "position_132_residue",
+        "on_target_GCG_over_offtarget_GCA_ratio",
+        "ROF_ratio_over_same_batch_parent",
+        "activity_retention_fraction",
+        "excluded_failed_well"
+      ],
+      "note": "面板 B：分组柱状图，主量为 activity_retention_fraction。第 1–2 根是同骨架跨两批的两次测量（0.772 / 0.673，相互复现），第 3–4 根是同背景 132D/132E 配对（0.340 / 0.752，2.2 倍）。第 5 根 excluded_failed_well = TRUE，是判为测量失败的孔，画成白底＋红描边＋斜线阴影的「幽灵柱」，仅用于说明该孔被判失败，不得当作有效低活性数据点。第 1 根的 ratio/ROF 取自组合批（亲本比 1.192），其 ROF 按一致口径重算为 1.809；该骨架的 ratio 与 activity_retention_fraction 可直接引用。"
+    },
+    {
+      "file": "data/figure_16a_cross_batch_replication.csv",
+      "rows": 5,
+      "columns": [
+        "construct",
+        "batch",
+        "on_target_GCG_over_offtarget_GCA_ratio",
+        "activity_retention_fraction",
+        "same_batch_parent_ratio",
+        "ROF_ratio_over_same_batch_parent",
+        "note"
+      ],
+      "note": "面板 A：折线图，x = batch（三档顺序固定），y = ROF_ratio_over_same_batch_parent，两条线分别连 27T-30H-58M 与 K30H。参考线 y = 1.00（同批亲本水平）。**三个批次的亲本比值不同（1.191 / 1.070 / 1.049），因此必须用 ROF 而非原始比值作纵轴。**本图要传达的是：两条线在第三个批次都明显下移——即此前报告的 1.71 与 2.16/2.08 未复现。"
+    },
+    {
+      "file": "data/figure_16b_batch3_groups.csv",
+      "rows": 29,
+      "columns": [
+        "construct",
+        "group_type",
+        "on_target_GCG_over_offtarget_GCA_ratio",
+        "ROF_ratio_over_same_batch_parent",
+        "activity_retention_fraction",
+        "on_target_C388_fraction",
+        "off_target_C871_fraction",
+        "ACA_class_C295_fraction",
+        "C295_not_detected",
+        "n_samples",
+        "is_reference_group"
+      ],
+      "note": "面板 B / C：本批 29 个组的全部量。面板 B = ROF 对 activity_retention_fraction 散点，只取 group_type = single 且组名以 27 开头者（即 27 位饱和的 10 个替换）；面板 C = 同一 10 个替换的 ACA_class_C295_fraction 柱状图，参考线取 is_reference_group = TRUE 中 construct = PUF12 的 0.3091，C295_not_detected = TRUE 的柱标 n.d.（低于 5% 检测线），**不要画成 0**。本批同批亲本 PUF12 比值为 1.049（ROF 的分母）。"
+    }
+  ]
+}

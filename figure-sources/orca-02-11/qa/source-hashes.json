@@ -1,0 +1,18 @@
+{
+  "figure_10c_candidate_priority_matrix.csv": "f042069fca889bd9d889489b35f213db187a66743b70d485bb4b16e5c2cf2a08",
+  "figure_08_single_site.csv": "bc7a10de5ffcd5979728e0a0973ed9262197eebcd557927b5937c1c9c78be589",
+  "figure_11c_contested_substitutions.csv": "062638b9832bbcb0d7a39eb624707865ba30d4704dd578e84f3a7576c0c391c2",
+  "figure_06b_protein_only_classification.csv": "8ca20ae9b52fcecc52e4c6e8277b1ee2ae23671ea214277d5bfe9109c51dedd5",
+  "figure_06a_protein_only_deviation.csv": "456867fe8f41d5756ff30c16cfaa7979af5c53e4128ec582885cd97d009888c2",
+  "figure_02_cp_deviation.csv": "227c452d55f7b2de0f3287aa6b8bf07ba30fde0660402cb0b5a52e6fc011e5cb",
+  "figure_03_ddcp_matrix.csv": "cf0cece09886f9147521a0182683b6a804300d703fdf41061e6e023c9c4faab1",
+  "figure_10a_candidate_groups_raw.csv": "e1ffaa5a086968508720b0ff0eb9b7f2c10ead309f1da22cd7fea97288dc2413",
+  "figure_04_negctrl_diagnosis.csv": "9745edaac9f762d546a48b93ae4a64d58ffbdd44397e06104681ba0bc362671a",
+  "figure_10b_candidate_group_sizes.csv": "1b1e0290b3899906c7ffcb8a4260c118500c409d19678984938e404b828bbd0c",
+  "figure_09_targeting_ratio.csv": "7588a9de5730a8aa4933676b97fbf239dec9034cbceb4a4be5cbe07740e3261d",
+  "figure_11a_sampling_frequency_by_position.csv": "b89370c40f189b819508f28d193188598acda2a2febd720c0e84e369f7e2c7c0",
+  "figure_07_protein_only_vs_complex.csv": "20f58586b1778522367eaf3337c085a8855d3290078892030602e8186399bc94",
+  "figure_05_negctrl_pca.csv": "c85f486429c45c4d2283640ca67adf922d8ee8f0374b0c8335471f82595cf1dd",
+  "figure_03_all_residues_ddcp.csv": "f4fe729a608f0c972a2879ec57c07d067836edddcfbf28ddc7e8c8010d8da91a",
+  "figure_11b_positions_passing_threshold.csv": "4773d3eaedd96d6ebd8749becf4ae7b9d2a8a46b1d5f16d1e52d620592ed5d6c"
+}

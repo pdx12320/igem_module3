@@ -1,0 +1,1 @@
+**Figure N3.** Follow-up measurements reveal different outcomes for position-132 substitutions. Comparisons across distinct constructs or batches provide context and are not independent replicates of one variant.

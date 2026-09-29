@@ -1,0 +1,159 @@
+{
+  "identity_label": "Sequence-consistent APOBEC3A–human APOBEC1 chimera; consistent with Pro.hAPOBEC1 architecture, exact published construct identity not confirmed",
+  "length": 199,
+  "canonical_A3A_same_index_identity": {
+    "identical": 124,
+    "length": 199,
+    "fraction": 0.6231155778894473
+  },
+  "segments": [
+    {
+      "uploaded": [
+        1,
+        69
+      ],
+      "reference": "P31941",
+      "reference_range": [
+        1,
+        69
+      ],
+      "differences": [
+        "H16A"
+      ]
+    },
+    {
+      "uploaded": [
+        70,
+        153
+      ],
+      "reference": "P41238",
+      "reference_range": [
+        61,
+        144
+      ],
+      "identical_residues": 84,
+      "differences": []
+    },
+    {
+      "uploaded": [
+        154,
+        199
+      ],
+      "reference": "P31941",
+      "reference_range": [
+        154,
+        199
+      ],
+      "differences": [
+        "C171A"
+      ]
+    }
+  ],
+  "boundary_caution": "70–153 is the maximal exact APOBEC1 block observed. H70 and IM152–153 also match A3A; sequence alone does not determine the engineered splice junction exactly.",
+  "catalytic_mapping": [
+    {
+      "uploaded": "H70",
+      "reference": "APOBEC1 H61; A3A H70",
+      "role": "zinc_ligand"
+    },
+    {
+      "uploaded": "E72",
+      "reference": "APOBEC1 E63; A3A E72",
+      "role": "catalytic_glutamate"
+    },
+    {
+      "uploaded": "C102",
+      "reference": "APOBEC1 C93",
+      "role": "zinc_ligand"
+    },
+    {
+      "uploaded": "C105",
+      "reference": "APOBEC1 C96",
+      "role": "zinc_ligand"
+    }
+  ],
+  "screened_positions": [
+    {
+      "uploaded": "G27",
+      "origin_reference": "P31941:G27"
+    },
+    {
+      "uploaded": "K30",
+      "origin_reference": "P31941:K30"
+    },
+    {
+      "uploaded": "T31",
+      "origin_reference": "P31941:T31"
+    },
+    {
+      "uploaded": "N57",
+      "origin_reference": "P31941:N57"
+    },
+    {
+      "uploaded": "Q58",
+      "origin_reference": "P31941:Q58"
+    },
+    {
+      "uploaded": "H70",
+      "origin_reference": "P41238:H61"
+    },
+    {
+      "uploaded": "E72",
+      "origin_reference": "P41238:E63"
+    },
+    {
+      "uploaded": "C102",
+      "origin_reference": "P41238:C93"
+    },
+    {
+      "uploaded": "C105",
+      "origin_reference": "P41238:C96"
+    },
+    {
+      "uploaded": "W130",
+      "origin_reference": "P41238:W121"
+    },
+    {
+      "uploaded": "M132",
+      "origin_reference": "P41238:M123"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://rest.uniprot.org/uniprotkb/P31941.fasta",
+      "claim": "Official human APOBEC3A reference sequence; downloaded 2026-09-14"
+    },
+    {
+      "url": "https://rest.uniprot.org/uniprotkb/P41238.fasta",
+      "claim": "Official human APOBEC1 reference sequence; downloaded 2026-09-14"
+    },
+    {
+      "url": "https://www.nature.com/articles/s41467-025-64748-6",
+      "claim": "Han et al. 2025 report ProAPOBECs with other APOBEC deaminase cores and A3A terminal regions, including Pro.hAPOBEC1. Architecture supports interpretation; exact construct sequence not checked."
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5414352/",
+      "claim": "Kouno et al. 2017: A3A E72A catalytically inactivated with active-site geometry intact; N57/T31 involved in substrate positioning; A3A H70/C101/C106 coordinate Zn. Only transferable unchanged/reference-aligned residue identities used."
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6657343/",
+      "claim": "Grünewald et al. 2019 discuss APOBEC1 catalytic residues H61/E63/C93/C96. Exact human sequence block provides mapping to uploaded H70/E72/C102/C105."
+    },
+    {
+      "url": "https://rest.uniprot.org/uniprotkb/P41238.json",
+      "claim": "Official human APOBEC1 annotations downloaded: E63 active site (proton donor), H61/C93/C96 catalytic Zn binding. These UniProt annotations are by similarity (ECO:0000250), not experiments on the current chimera."
+    },
+    {
+      "url": "https://rest.uniprot.org/uniprotkb/P31941.json",
+      "claim": "Official human A3A CMP/dCMP-type deaminase domain annotation 27–143 (PROSITE prediction); this interval is reference-only and not treated as experimentally bounded current chimera domain."
+    }
+  ],
+  "interpretation_limits": [
+    "Whole 199-aa construct is a deaminase module. The 70–153 segment is its APOBEC1-derived core, not an independently delimited complete catalytic domain.",
+    "Catalytic chemistry, substrate recognition and structural hotspot scores are distinct annotations.",
+    "Protein-only CP does not directly observe RNA recognition or catalytic rate.",
+    "Do not infer activities in C295/C388/C871 from the sequence annotation.",
+    "Uploaded W130 and M132 map to APOBEC1 W121 and M123. A3A Y130/Y132 function must not be assigned based on numeric labels."
+  ],
+  "domain_reference_note": "UniProt annotates A3A CMP/dCMP-type deaminase domain as 27–143 and APOBEC1 as 10–134 (PROSITE rule). These are reference annotations; no claim that source segment 70–153 equals whole catalytic domain."
+}

@@ -1,0 +1,7 @@
+# N3. Designed-batch summaries and position-132 comparisons
+
+**A.** Of 37 source groups, 35 valid, ratio-defined construct summaries are plotted by design category. ROF is the +1 ratio divided by the same-batch parent ratio; reference lines mark ROF 1.00 and retention 0.70. 27T-30H-58M is a failed well and is listed outside the axes, not shown as a low-activity data point. 26N-31G has an undefined ratio and no retention value and is also listed outside the axes.
+
+**B.** The five entries follow the supplied bar order. Valid activity-retention values are 0.772, 0.6727, 0.3398 and 0.7517. The first bar is the triple from the earlier combinatorial batch; the second is the different 132E-containing construct from the designed batch. They share a three-mutation core but differ by both construct and batch and are not repeated measurements of an identical construct. The third and fourth bars are 25E-30H-58M-132D and 25E-30H-58M-132E in the same designed batch. The fifth bar is an explicitly invalid failed-well source record (0.0789), shown only as a white, red-hatched ghost bar for provenance; it is excluded from scientific interpretation. No uncertainty intervals or tests are inferred from summary data. All bar heights are the exact supplied values; the earlier triple value differs from the separate N1 file (0.773).
+
+These observations support a within-batch descriptive comparison of the 132D and 132E variants, not an estimate of purified-enzyme activity or a statistically demonstrated replication of the triple.

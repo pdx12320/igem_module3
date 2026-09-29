@@ -1,0 +1,264 @@
+[
+  {
+    "figure": 2,
+    "png_pixels": [
+      4740,
+      3900
+    ],
+    "dpi": [
+      299.9994,
+      299.9994
+    ],
+    "PDF_pages": 1,
+    "PDF_points": [
+      0.0,
+      0.0,
+      1137.5999755859375,
+      936.0
+    ],
+    "fonts": [
+      "FBJOUB+Futura-Medium"
+    ],
+    "SVG_renderer": "librsvg",
+    "rows": {
+      "A": 14,
+      "B": 10
+    }
+  },
+  {
+    "figure": 3,
+    "png_pixels": [
+      4740,
+      6600
+    ],
+    "dpi": [
+      299.9994,
+      299.9994
+    ],
+    "PDF_pages": 1,
+    "PDF_points": [
+      0.0,
+      0.0,
+      1137.5999755859375,
+      1584.0
+    ],
+    "fonts": [
+      "FBJOUB+Futura-Medium"
+    ],
+    "SVG_renderer": "librsvg",
+    "rows": {
+      "single": 22
+    }
+  },
+  {
+    "figure": 4,
+    "png_pixels": [
+      4740,
+      6300
+    ],
+    "dpi": [
+      299.9994,
+      299.9994
+    ],
+    "PDF_pages": 1,
+    "PDF_points": [
+      0.0,
+      0.0,
+      1137.5999755859375,
+      1512.0
+    ],
+    "fonts": [
+      "FBJOUB+Futura-Medium"
+    ],
+    "SVG_renderer": "librsvg",
+    "rows": {
+      "A": 28,
+      "B": 29
+    }
+  },
+  {
+    "figure": 5,
+    "png_pixels": [
+      4740,
+      5700
+    ],
+    "dpi": [
+      299.9994,
+      299.9994
+    ],
+    "PDF_pages": 1,
+    "PDF_points": [
+      0.0,
+      0.0,
+      1137.5999755859375,
+      1368.0
+    ],
+    "fonts": [
+      "GCWXDV+DejaVuSans-Oblique",
+      "FBJOUB+Futura-Medium"
+    ],
+    "SVG_renderer": "librsvg",
+    "rows": {
+      "A": 28,
+      "B": 28
+    }
+  },
+  {
+    "figure": 6,
+    "png_pixels": [
+      4740,
+      3300
+    ],
+    "dpi": [
+      299.9994,
+      299.9994
+    ],
+    "PDF_pages": 1,
+    "PDF_points": [
+      0.0,
+      0.0,
+      1137.5999755859375,
+      792.0
+    ],
+    "fonts": [
+      "GCWXDV+DejaVuSans-Oblique",
+      "FBJOUB+Futura-Medium"
+    ],
+    "SVG_renderer": "librsvg",
+    "rows": {
+      "A": 10,
+      "B": 3
+    }
+  },
+  {
+    "figure": 7,
+    "png_pixels": [
+      4740,
+      3000
+    ],
+    "dpi": [
+      299.9994,
+      299.9994
+    ],
+    "PDF_pages": 1,
+    "PDF_points": [
+      0.0,
+      0.0,
+      1137.5999755859375,
+      720.0
+    ],
+    "fonts": [
+      "GCWXDV+DejaVuSans-Oblique",
+      "FBJOUB+Futura-Medium"
+    ],
+    "SVG_renderer": "librsvg",
+    "rows": {
+      "single": 10
+    }
+  },
+  {
+    "figure": 8,
+    "png_pixels": [
+      4740,
+      3000
+    ],
+    "dpi": [
+      299.9994,
+      299.9994
+    ],
+    "PDF_pages": 1,
+    "PDF_points": [
+      0.0,
+      0.0,
+      1137.5999755859375,
+      720.0
+    ],
+    "fonts": [
+      "FBJOUB+Futura-Medium"
+    ],
+    "SVG_renderer": "librsvg",
+    "rows": {
+      "single": 101
+    }
+  },
+  {
+    "figure": 9,
+    "png_pixels": [
+      4740,
+      3150
+    ],
+    "dpi": [
+      299.9994,
+      299.9994
+    ],
+    "PDF_pages": 1,
+    "PDF_points": [
+      0.0,
+      0.0,
+      1137.5999755859375,
+      756.0
+    ],
+    "fonts": [
+      "EOZVUY+ArialUnicodeMS",
+      "FBJOUB+Futura-Medium"
+    ],
+    "SVG_renderer": "librsvg",
+    "rows": {
+      "A": 41,
+      "B": 41
+    }
+  },
+  {
+    "figure": 10,
+    "png_pixels": [
+      4740,
+      3600
+    ],
+    "dpi": [
+      299.9994,
+      299.9994
+    ],
+    "PDF_pages": 1,
+    "PDF_points": [
+      0.0,
+      0.0,
+      1137.5999755859375,
+      864.0
+    ],
+    "fonts": [
+      "FBJOUB+Futura-Medium"
+    ],
+    "SVG_renderer": "librsvg",
+    "rows": {
+      "A": 5,
+      "B": 5
+    }
+  },
+  {
+    "figure": 11,
+    "png_pixels": [
+      4740,
+      3150
+    ],
+    "dpi": [
+      299.9994,
+      299.9994
+    ],
+    "PDF_pages": 1,
+    "PDF_points": [
+      0.0,
+      0.0,
+      1137.5999755859375,
+      756.0
+    ],
+    "fonts": [
+      "EOZVUY+ArialUnicodeMS",
+      "FBJOUB+Futura-Medium"
+    ],
+    "SVG_renderer": "librsvg",
+    "rows": {
+      "A": 40,
+      "B": 4
+    }
+  }
+]

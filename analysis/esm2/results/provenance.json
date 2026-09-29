@@ -1,0 +1,45 @@
+{
+  "model": "facebook/esm2_t12_35M_UR50D",
+  "device": "CPU",
+  "threads": 2,
+  "python": "3.9.6",
+  "versions": {
+    "torch": "2.5.1",
+    "transformers": "4.46.3",
+    "tokenizers": "0.20.3",
+    "safetensors": "0.4.5",
+    "numpy": "1.26.4",
+    "pandas": "2.2.3",
+    "scipy": "1.13.1",
+    "scikit-learn": "1.5.2"
+  },
+  "input_sha256": {
+    "manifest": "4742779adaf7104b4cde0e94255407bc7ea8a80ec15e005267008a77313475f7",
+    "wt_fasta": "1986c0d88f289b956864b0fa9eb95446e8dae4e24e4154129b2ae52e03b5ef21",
+    "plan": "cceaaf79371b93008046a8a8c22bc1073f4704cdd7a21dd310679087628700bf"
+  },
+  "model_sha256": {
+    "model.safetensors": "e35647818e0e064351d4531ed480d225a002567b4b2b93ad3a9246d753150fc0",
+    "tokenizer_config.json": "7e9161ecdb548ec45a41cbc6b24aa4476fdd418461f491c4207baa99419a29ad",
+    "config.json": "ae07364efa51e0fa1d81da3fe608f6d948abdbbb69785ba6e1df379a458e58ee",
+    "vocab.txt": "0b82cc0a7c7cf9e567b1e5892d793285b9fbae822c964ca48696f7db44598e03"
+  },
+  "pooling": "mean of 199 residue embeddings; special tokens excluded",
+  "layers": [
+    6,
+    12
+  ],
+  "network": "disabled during inference",
+  "activity_labels_used_for_fitting": false,
+  "PCA_display_explained_variance": [
+    0.3479631543159485,
+    0.2608874440193176
+  ],
+  "primary_vs_layer6_ARI": -0.1079136690647482,
+  "primary_vs_sequence_hamming_ARI": -0.1,
+  "limitations": [
+    "11 near-identical engineered sequences",
+    "no held-out functional validation",
+    "LOCO sensitivity is not experimental replication"
+  ]
+}

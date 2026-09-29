@@ -1,0 +1,321 @@
+stage,n_neighbors,random_state,replicate,variable_pairs,warning_category,warning
+sensitivity,5,20260915,0,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,5,20260915,0,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,3,20260915,0,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,3,20260915,0,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,3,20260916,1,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,3,20260916,1,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,3,20260917,2,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,3,20260917,2,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,3,20260918,3,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,3,20260918,3,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,3,20260919,4,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,3,20260919,4,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,3,20260920,5,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,3,20260920,5,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,3,20260921,6,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,3,20260921,6,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,3,20260922,7,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,3,20260922,7,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,3,20260923,8,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,3,20260923,8,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,3,20260924,9,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,3,20260924,9,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,3,20260925,10,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,3,20260925,10,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,3,20260926,11,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,3,20260926,11,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,3,20260927,12,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,3,20260927,12,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,3,20260928,13,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,3,20260928,13,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,3,20260929,14,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,3,20260929,14,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,3,20260930,15,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,3,20260930,15,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,3,20260931,16,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,3,20260931,16,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,3,20260932,17,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,3,20260932,17,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,3,20260933,18,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,3,20260933,18,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,3,20260934,19,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,3,20260934,19,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,5,20260916,1,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,5,20260916,1,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,5,20260917,2,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,5,20260917,2,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,5,20260918,3,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,5,20260918,3,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,5,20260919,4,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,5,20260919,4,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,5,20260920,5,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,5,20260920,5,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,5,20260921,6,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,5,20260921,6,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,5,20260922,7,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,5,20260922,7,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,5,20260923,8,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,5,20260923,8,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,5,20260924,9,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,5,20260924,9,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,5,20260925,10,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,5,20260925,10,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,5,20260926,11,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,5,20260926,11,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,5,20260927,12,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,5,20260927,12,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,5,20260928,13,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,5,20260928,13,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,5,20260929,14,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,5,20260929,14,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,5,20260930,15,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,5,20260930,15,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,5,20260931,16,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,5,20260931,16,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,5,20260932,17,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,5,20260932,17,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,5,20260933,18,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,5,20260933,18,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,5,20260934,19,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,5,20260934,19,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,8,20260915,0,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,8,20260915,0,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,8,20260916,1,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,8,20260916,1,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,8,20260917,2,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,8,20260917,2,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,8,20260918,3,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,8,20260918,3,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,8,20260919,4,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,8,20260919,4,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,8,20260920,5,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,8,20260920,5,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,8,20260921,6,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,8,20260921,6,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,8,20260922,7,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,8,20260922,7,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,8,20260923,8,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,8,20260923,8,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,8,20260924,9,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,8,20260924,9,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,8,20260925,10,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,8,20260925,10,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,8,20260926,11,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,8,20260926,11,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,8,20260927,12,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,8,20260927,12,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,8,20260928,13,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,8,20260928,13,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,8,20260929,14,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,8,20260929,14,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,8,20260930,15,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,8,20260930,15,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,8,20260931,16,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,8,20260931,16,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,8,20260932,17,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,8,20260932,17,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,8,20260933,18,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,8,20260933,18,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+sensitivity,8,20260934,19,766,UserWarning,using precomputed metric; inverse_transform will be unavailable
+sensitivity,8,20260934,19,766,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,0,750,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,0,750,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,1,751,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,1,751,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,2,753,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,2,753,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,3,753,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,3,753,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,4,760,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,4,760,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,5,749,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,5,749,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,6,752,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,6,752,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,7,754,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,7,754,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,8,753,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,8,753,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,9,750,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,9,750,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,10,745,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,10,745,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,11,740,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,11,740,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,12,751,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,12,751,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,13,754,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,13,754,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,14,757,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,14,757,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,15,753,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,15,753,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,16,753,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,16,753,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,17,759,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,17,759,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,18,751,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,18,751,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,19,755,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,19,755,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,20,751,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,20,751,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,21,762,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,21,762,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,22,745,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,22,745,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,23,754,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,23,754,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,24,759,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,24,759,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,25,754,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,25,754,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,26,755,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,26,755,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,27,755,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,27,755,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,28,749,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,28,749,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,29,757,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,29,757,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,30,755,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,30,755,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,31,754,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,31,754,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,32,750,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,32,750,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,33,749,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,33,749,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,34,750,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,34,750,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,35,758,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,35,758,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,36,761,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,36,761,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,37,752,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,37,752,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,38,756,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,38,756,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,39,751,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,39,751,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,40,761,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,40,761,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,41,747,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,41,747,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,42,761,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,42,761,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,43,756,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,43,756,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,44,755,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,44,755,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,45,756,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,45,756,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,46,747,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,46,747,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,47,760,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,47,760,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,48,747,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,48,747,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,49,742,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,49,742,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,50,763,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,50,763,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,51,745,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,51,745,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,52,754,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,52,754,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,53,758,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,53,758,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,54,754,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,54,754,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,55,744,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,55,744,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,56,753,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,56,753,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,57,753,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,57,753,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,58,749,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,58,749,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,59,757,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,59,757,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,60,744,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,60,744,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,61,759,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,61,759,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,62,746,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,62,746,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,63,749,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,63,749,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,64,751,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,64,751,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,65,762,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,65,762,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,66,748,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,66,748,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,67,752,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,67,752,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,68,749,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,68,749,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,69,762,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,69,762,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,70,755,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,70,755,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,71,746,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,71,746,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,72,753,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,72,753,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,73,754,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,73,754,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,74,748,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,74,748,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,75,752,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,75,752,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,76,752,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,76,752,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,77,750,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,77,750,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,78,750,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,78,750,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,79,732,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,79,732,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,80,758,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,80,758,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,81,734,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,81,734,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,82,747,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,82,747,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,83,754,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,83,754,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,84,754,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,84,754,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,85,756,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,85,756,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,86,756,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,86,756,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,87,749,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,87,749,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,88,757,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,88,757,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,89,746,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,89,746,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,90,734,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,90,734,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,91,759,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,91,759,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,92,755,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,92,755,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,93,745,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,93,745,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,94,755,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,94,755,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,95,756,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,95,756,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,96,755,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,96,755,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,97,755,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,97,755,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,98,758,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,98,758,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.
+seed_bootstrap,5,20260915,99,736,UserWarning,using precomputed metric; inverse_transform will be unavailable
+seed_bootstrap,5,20260915,99,736,FutureWarning,The default value of `copy` will change from False to True in 1.10. Explicitly set a value for `copy` to silence this warning.

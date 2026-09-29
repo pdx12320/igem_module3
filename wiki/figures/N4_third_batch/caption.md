@@ -1,0 +1,1 @@
+**Figure N4.** Third-batch measurements compare preference, retained activity and position-27 substitutions within their own assay background. Undetected c.295 editing is distinguished from measured zero.

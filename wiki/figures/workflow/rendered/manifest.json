@@ -1,0 +1,15 @@
+{
+  "type": "conceptual schematic; not a structure or experimental image",
+  "style": "ORCA palette and Futura typography",
+  "composition": "Matplotlib vector shapes, arrows and SVG text; user requested no native PowerPoint",
+  "python": "3.9.6",
+  "matplotlib": "3.9.2",
+  "png_pixels": [
+    2880,
+    1776
+  ],
+  "editable_svg_text": true,
+  "illustrative_asset_sha256": "1875077eb62380fc938152661feed47e9d29077743e976780931781009bd9dc0",
+  "text_outside_canvas": [],
+  "biological_data_encoded": false
+}

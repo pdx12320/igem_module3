@@ -1,0 +1,1 @@
+Three vertically arranged panels. A shows all 25 mutant construct summaries in the third batch and highlights the triple with an orange star on the Pareto front. B shows ten position-27 substitutions, highlighting 27I, 27V and 27E. C shows three measured c.295 editing bars and seven n.d. labels below the 5% detection threshold, with a parent reference at 0.3091.

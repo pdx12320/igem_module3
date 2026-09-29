@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "template_version": "orca-data-1.1",
+  "fonts": {
+    "latin": [
+      "Futura",
+      "Arial",
+      "DejaVu Sans"
+    ],
+    "cjk": [
+      "PingFang SC",
+      "Noto Sans CJK SC",
+      "Arial Unicode MS"
+    ],
+    "weight": "medium"
+  },
+  "colors": {
+    "ink": "#171536",
+    "indigo900": "#19143D",
+    "indigo700": "#2E267C",
+    "indigo500": "#5D5AD7",
+    "lavender300": "#9D9CF4",
+    "lavender100": "#E9E8FF",
+    "coral400": "#F58F9C",
+    "coral200": "#FFD1D5",
+    "paper": "#FFFEFC",
+    "muted": "#6B6880",
+    "line": "#D9D7E5",
+    "missing": "#C9C7D0",
+    "orange500": "#E89B3C",
+    "teal600": "#27877F"
+  },
+  "categorical": [
+    "#2E267C",
+    "#E89B3C",
+    "#27877F",
+    "#F58F9C",
+    "#9D9CF4",
+    "#171536"
+  ],
+  "markers": [
+    "o",
+    "s",
+    "^",
+    "D",
+    "v",
+    "P"
+  ],
+  "figure": {
+    "width_in": 12,
+    "height_in": 9,
+    "display_width_px": 960,
+    "export_scale": 3.75,
+    "background": "white"
+  },
+  "text": {
+    "label_pt": 22,
+    "tick_pt": 18,
+    "legend_pt": 18,
+    "annotation_pt": 18,
+    "emphasis_pt": 24
+  },
+  "geometry": {
+    "axis_width": 1.5,
+    "line_width": 2.0,
+    "point_area": 46,
+    "point_alpha": 0.8,
+    "point_edge": 0.6,
+    "bar_width": 0.62,
+    "box_width": 0.56,
+    "violin_width": 0.72,
+    "error_cap": 4,
+    "jitter_width": 0.12
+  },
+  "group_order": [
+    "Active",
+    "Inactive",
+    "Partially inactive",
+    "Not tested",
+    "New inactive control (not measured)",
+    "Wild-type reference",
+    "Batch: 1 substitution",
+    "Batch: 2 substitutions",
+    "Batch: 3 substitutions",
+    "Triple 27T-30H-58M",
+    "A replication",
+    "B new single substitutions",
+    "C new combinations",
+    "D control variants",
+    "E relaxed / anomalous",
+    "not in candidate list",
+    "Position 27 ROF >=1.13"
+  ],
+  "group_styles": {
+    "Active": {
+      "color": "#27877F",
+      "marker": "o"
+    },
+    "Inactive": {
+      "color": "#E89B3C",
+      "marker": "s"
+    },
+    "Partially inactive": {
+      "color": "#5D5AD7",
+      "marker": "^"
+    },
+    "Not tested": {
+      "color": "#9693A6",
+      "marker": "D"
+    },
+    "New inactive control (not measured)": {
+      "color": "#E89B3C",
+      "marker": "o",
+      "fill": "white",
+      "hatch": "///"
+    },
+    "Wild-type reference": {
+      "color": "#2E267C",
+      "marker": "P"
+    },
+    "Batch: 1 substitution": {
+      "color": "#9D9CF4",
+      "marker": "D"
+    },
+    "Batch: 2 substitutions": {
+      "color": "#2E267C",
+      "marker": "o"
+    },
+    "Batch: 3 substitutions": {
+      "color": "#5D5AD7",
+      "marker": "^"
+    },
+    "Triple 27T-30H-58M": {
+      "color": "#E89B3C",
+      "marker": "*"
+    },
+    "A replication": {
+      "color": "#6B6880",
+      "marker": "o"
+    },
+    "B new single substitutions": {
+      "color": "#5D5AD7",
+      "marker": "D"
+    },
+    "C new combinations": {
+      "color": "#2E267C",
+      "marker": "s"
+    },
+    "D control variants": {
+      "color": "#27877F",
+      "marker": "^"
+    },
+    "E relaxed / anomalous": {
+      "color": "#9D9CF4",
+      "marker": "v"
+    },
+    "not in candidate list": {
+      "color": "#171536",
+      "marker": "P"
+    },
+    "Position 27 ROF >=1.13": {
+      "color": "#27877F",
+      "marker": "D"
+    }
+  },
+  "chart_settings": {
+    "dpi": 300,
+    "source_values": "unchanged",
+    "functional_class_aliases": {
+      "WT (GCA substrate)": "Wild-type reference"
+    },
+    "panels": "Vertical panels for 960 CSS px display",
+    "figure_04_orientation": "Horizontal bars, preserving all 29 rows",
+    "figure_08_parent": "Reference line only; 101 defined mutant points",
+    "figure_09": "Exclude parent and nine undefined ratios; 41 points",
+    "statistics": "Descriptive only; no error bars, regressions or tests",
+    "optional_single_mutant_background": false
+  },
+  "seed": 20260915,
+  "actual_font": "Futura",
+  "actual_cjk_font": "Arial Unicode MS"
+}

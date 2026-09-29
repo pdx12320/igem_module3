@@ -1,0 +1,1 @@
+Paired bars compare complex and protein-only distances for 10 constructs, highlighting T31D and E72A.
