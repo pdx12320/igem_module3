@@ -1,0 +1,49 @@
+{
+  "source_repository": "pdx12320/WIKI_SUSTech-BIO",
+  "source_base_commit": "1d7127f61ce6830a66eb1fb54d371fa715562882",
+  "source_component": "wiki/components/model/module3.html",
+  "includes": "wiki/components/model/conclusions/module3.html",
+  "local_edits": "Main Wiki text, conclusions and figures synchronized from the current Model page.",
+  "figures": [
+    {
+      "source_path": "static/assets/model/icon-flowcharts-20261016/figure-25-structure-assay.svg",
+      "destination": "wiki/figures/current-model/model-figure-25-panel1.svg",
+      "sha256": "fe678316bdb300334af55ae550d3c7c28ea0f623c05d9448151aad22a1e7cbc3"
+    },
+    {
+      "source_path": "static/assets/model/igem_module3/wiki/figures/figure_03_ddcp_heatmap/figure_03_ddcp_heatmap.png",
+      "destination": "wiki/figures/current-model/model-figure-26-panel1.png",
+      "sha256": "2ddbc86a5c48f6fc3ba0cfdcdfc6fc311fe6057117b4cdae3e373007fc98e068"
+    },
+    {
+      "source_path": "static/assets/model/igem_module3/wiki/figures/figure_04_negctrl_diagnosis/figure_04_negctrl_diagnosis.png",
+      "destination": "wiki/figures/current-model/model-figure-27-panel1.png",
+      "sha256": "29763efdb2aa140536728b5a3c3fa96edc1a16dd83a34e6060890d1b92d546a3"
+    },
+    {
+      "source_path": "static/assets/model/igem_module3/wiki/figures/figure_08_single_site/figure_08_single_site.png",
+      "destination": "wiki/figures/current-model/model-figure-28-panel1.png",
+      "sha256": "77bbb3611509da93a3120a069b923760b6f7186d48f97451ee8ed3dabd7c7d92"
+    },
+    {
+      "source_path": "static/assets/model/igem_module3/wiki/figures/N1_combinatorial_pareto/N1_combinatorial_pareto.png",
+      "destination": "wiki/figures/current-model/model-figure-29-panel1.png",
+      "sha256": "76ed60ecdcef4460aa1065240fa882a4465dd13a5e1b6ed97eb50c27e6caa732"
+    },
+    {
+      "source_path": "static/assets/model/igem_module3/wiki/figures/figure_09_targeting_ratio/figure_09_targeting_ratio.png",
+      "destination": "wiki/figures/current-model/model-figure-30-panel1.png",
+      "sha256": "e9f9e1502ba7368a1e26e80be55e48d70e926aac560cb3b8dcd408964ef687c2"
+    },
+    {
+      "source_path": "static/assets/model/igem_module3/wiki/figures/figure_10_candidates/figure_10_candidates.png",
+      "destination": "wiki/figures/current-model/model-figure-31-panel1.png",
+      "sha256": "05f5e9c703f484a4f63524ea06820f3e54f808c2cb8b4a8b661aaf42795971b3"
+    },
+    {
+      "source_path": "static/assets/model/igem_module3/wiki/figures/N3_designed_batch/N3_designed_batch.png",
+      "destination": "wiki/figures/current-model/model-figure-32-panel1.png",
+      "sha256": "53a87c081d188cada26a2012e68473ff27e1e868abdba9f006df533c5bbfdfb6"
+    }
+  ]
+}

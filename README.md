@@ -1,4 +1,6 @@
 # iGEM Module 3 · APOBEC Dry Lab
+The main Wiki text and figures are synchronized from the current [WIKI_SUSTech-BIO Model page source](https://github.com/pdx12320/WIKI_SUSTech-BIO/tree/main/wiki/components/model). See [source and figure checksums](wiki/CURRENT_MODEL_SOURCE.json).
+
 
 **Structures guide hypotheses; experiments assess preference and activity within each batch.**
 
@@ -9,7 +11,7 @@ This repository organizes the APOBEC module's wiki narrative, ORCA figures, plot
 1. **[Main wiki](wiki/module3.md)** — Background, Model overview, Results, Conclusion, Data and code availability, and eight primary references. Figure captions are concise; the main narrative contains no DBTL framing.
 2. **[DBTL record](wiki/DBTL.md)** — separate design, build, test and learn decisions, with the evidence for each iteration.
 
-![Module 3 workflow](wiki/figures/workflow/rendered/workflow.png)
+![Module 3 workflow](wiki/figures/current-model/model-figure-25-panel1.svg)
 
 The main page uses the supplied ORCA figures **3, 4, 8, N1, 9, 10 and N3**. Figures **7 and N4** remain available as supporting assets; their context is summarized without a separate wiki supplement. The logical workflow is newly drawn with ORCA colours and typography, with editable SVG text/arrows, a disclosed conceptual image asset, PNG and PDF exports. It does not require PowerPoint.
 
